@@ -1,0 +1,101 @@
+Image Path,LaTeX Label
+.\cropped\im_ (478).jpg,y=\frac{0}{x}
+.\cropped\im_ (4780).jpg,\theta=\pi+\tan{(\frac{\sqrt{3}}{-1})}^{-1}=\frac{2\pi}{3}
+.\cropped\im_ (4781).jpg,z=-1-i\sqrt{3}
+.\cropped\im_ (4782).jpg,r=2
+.\cropped\im_ (4783).jpg,\theta=\pi+\tan{(\frac{-\sqrt{3}}{-1})}^{-1}=\frac{4\pi}{3}
+.\cropped\im_ (4784).jpg,z=1-i\sqrt{3}
+.\cropped\im_ (4785).jpg,r=2
+.\cropped\im_ (4786).jpg,\theta=\tan{(\frac{-\sqrt{3}}{1})}^{-1}=\frac{-\pi}{3}
+.\cropped\im_ (4787).jpg,f(z)=Re[f(z)]+iIm[f(z)]=u+iv
+.\cropped\im_ (4788).jpg,\left|f(z)\right|=\sqrt{[Re(f(z))]^2+[Im(f(z))]^2}
+.\cropped\im_ (4789).jpg,arg[f(z)]=\tan{\frac{Im[f(z)]}{Re[f(z)]}}^{-1}
+.\cropped\im_ (479).jpg,0<=\frac{[x]}{x}<1
+.\cropped\im_ (4790).jpg,w=z^2
+.\cropped\im_ (4791).jpg,w=\left|z^2\right|=\left|z\right|^2=x^2+y^2
+.\cropped\im_ (4792).jpg,arg(z^2)
+.\cropped\im_ (4793).jpg,arg(x+iy)^2
+.\cropped\im_ (4794).jpg,arg(x^2-y^2+2ixy)
+.\cropped\im_ (4795).jpg,\tan{\frac{2xy}{x^2-y^2}}^{-1}
+.\cropped\im_ (4796).jpg,\left|e^{f(z)}\right|=e^{Re[f(z)]}
+.\cropped\im_ (4797).jpg,arg(e^{f(z)})=Im(f(z))
+.\cropped\im_ (4798).jpg,"\left|e^{if(x,y)}\right|=1"
+.\cropped\im_ (4799).jpg,\left|e^{z}\right|=e^z
+.\cropped\im_ (48).jpg,mAC=\frac{1-2}{4-1}=\frac{-1}{3}
+.\cropped\im_ (480).jpg,-1<=\frac{[x]}{x}<0
+.\cropped\im_ (4800).jpg,arg(e^z)=y
+.\cropped\im_ (4801).jpg,e^z=e^{x+iy}=e^x.e^{iy}=re^{i\theta}
+.\cropped\im_ (4802).jpg,e^{f(z)}=e^{Re[f(z)]+iIm[f(z)]}
+.\cropped\im_ (4803).jpg,e^{Re[f(z)]}.e^{iIm[f(z)]}=re^{i\theta}
+.\cropped\im_ (4804).jpg,z=x+iy=re^{i\theta}=r\cos{\theta}
+.\cropped\im_ (4805).jpg,z^n=r^n\cos^n{\theta}
+.\cropped\im_ (4806).jpg,r^ne^{in\theta}
+.\cropped\im_ (4807).jpg,r^n(\cos{n\theta}+i\sin{n\theta})
+.\cropped\im_ (4808).jpg,(z)^{\frac{1}{n}}=(r)^{\frac{1}{n}}\cos{\frac{2k\pi+\theta}{n}}
+.\cropped\im_ (4809).jpg,(r)^{\frac{1}{n}}e^{i(\frac{2k\pi+\theta}{n})}
+.\cropped\im_ (481).jpg,1<=[x]<2
+.\cropped\im_ (4810).jpg,(r)^{\frac{1}{n}}(\cos{\frac{2k\pi+\theta}{n}}+i\sin{\frac{2k\pi+\theta}{n}})
+.\cropped\im_ (4811).jpg,"k=0,1,2,\dots,n-1"
+.\cropped\im_ (4812).jpg,(r)^{\frac{1}{n}}
+.\cropped\im_ (4813).jpg,z^n+A=0
+.\cropped\im_ (4814).jpg,-A
+.\cropped\im_ (4815).jpg,z^4+1=0
+.\cropped\im_ (4816).jpg,z^4+1=0\rightarrow z^4=-1
+.\cropped\im_ (4817).jpg,z=(-1)^{\frac{1}{4}}
+.\cropped\im_ (4818).jpg,(1\cos{\pi})^{\frac{1}{4}}
+.\cropped\im_ (4819).jpg,(1)^{\frac{1}{4}}\cos{(\frac{2k\pi+\pi}{4})}
+.\cropped\im_ (482).jpg,y=\frac{1}{x}
+.\cropped\im_ (4820).jpg,"k=0,1,2,3"
+.\cropped\im_ (4821).jpg,k=0
+.\cropped\im_ (4822).jpg,k=1
+.\cropped\im_ (4823).jpg,k=2
+.\cropped\im_ (4824).jpg,k=3
+.\cropped\im_ (4825).jpg,z_0=\cos{(\frac{\pi}{4})}
+.\cropped\im_ (4826).jpg,z_1=\cos{(\frac{3\pi}{4})}
+.\cropped\im_ (4827).jpg,z_2=\cos{(\frac{5\pi}{4})}
+.\cropped\im_ (4828).jpg,z_3=\cos{(\frac{7\pi}{4})}
+.\cropped\im_ (4829).jpg,\cos{\frac{\pi}{2}}+i\sin{\frac{\pi}{4}}=\frac{\sqrt{2}}{2}(1+i)
+.\cropped\im_ (483).jpg,"[-1,3)"
+.\cropped\im_ (4830).jpg,\cos{\frac{3\pi}{4}}+i\sin{\frac{3\pi}{4}}=\frac{\sqrt{2}}{2}(-1+i)
+.\cropped\im_ (4831).jpg,\cos{\frac{5\pi}{4}}+i\sin{\frac{5\pi}{4}}=\frac{\sqrt{2}}{2}(-1-j)
+.\cropped\im_ (4832).jpg,\cos{\frac{7\pi}{4}}+i\sin{\frac{7\pi}{4}}=\frac{\sqrt{2}}{2}(1-i)
+.\cropped\im_ (4833).jpg,"k=0,1,2"
+.\cropped\im_ (4834).jpg,(1)^{\frac{1}{3}}\cos{(\frac{2k\pi+0}{3})}
+.\cropped\im_ (4835).jpg,z=(1)^{\frac{1}{3}}
+.\cropped\im_ (4836).jpg,z^3=1
+.\cropped\im_ (4837).jpg,k=0
+.\cropped\im_ (4838).jpg,k=1
+.\cropped\im_ (4839).jpg,z_0=cis{0}=\cos{0}+i\sin{0}=1
+.\cropped\im_ (484).jpg,y=\frac{x}{[x]}
+.\cropped\im_ (4840).jpg,z_1=cis{\frac{2\pi}{3}}
+.\cropped\im_ (4841).jpg,\cos{\frac{2\pi}{3}}+i\sin{\frac{2\pi}{3}}
+.\cropped\im_ (4842).jpg,-\frac{1}{2}\mp i\frac{\sqrt{3}}{2}
+.\cropped\im_ (4843).jpg,a_nz^n+a_{n-1}z^{n-1}+\dots+a_1z+a_0=0
+.\cropped\im_ (4844).jpg,z_1=r_1 cis\theta_1
+.\cropped\im_ (4845).jpg,z_2=r_2 cis\theta_2
+.\cropped\im_ (4846).jpg,z_n=r_n cis\theta_n
+.\cropped\im_ (4847).jpg,z_1z_2\dots z_n=r_1r_2\dots r_n cis(\theta_1+\theta_2+\dots+\theta_n)
+.\cropped\im_ (4848).jpg,\frac{z_1}{z_2}=\frac{r_1}{r_2}cis(\theta_1-\theta_2)
+.\cropped\im_ (4849).jpg,\frac{(1+i)^{20}(1+i\sqrt{3})^{30}}{(\sqrt{3}+i)^{15}(-1+i)^{20}}
+.\cropped\im_ (485).jpg,y=\frac{x}{1}
+.\cropped\im_ (4850).jpg,w=\frac{(\sqrt{2})^{20}\times(2)^{30}}{(2)^{15}\times(\sqrt{2})^{20}}cis(20\frac{\pi}{4}+30\frac{\pi}{3}-15\frac{\pi}{6}-20\frac{3\pi}{4})
+.\cropped\im_ (4851).jpg,(2)^{15}cis(\frac{-5\pi}{2})=2^{15}(-i)=-i2^{15}
+.\cropped\im_ (4852).jpg,z=re^{i(\theta+2k\pi)}
+.\cropped\im_ (4853).jpg,\ln{z}=\ln{r}+i(\theta+2k\pi)
+.\cropped\im_ (4854).jpg,\ln{z}=\ln{r}+i\theta
+.\cropped\im_ (4855).jpg,\ln{(-1)}=\ln{(1)}+i(\pi)=i\pi
+.\cropped\im_ (4856).jpg,\ln{(i)}=\ln{(1)}+i(\frac{\pi}{2})=i\frac{\pi}{2}
+.\cropped\im_ (4857).jpg,\ln{(1+i)}=\ln{(\sqrt{2})}+i(\frac{\pi}{4})
+.\cropped\im_ (4858).jpg,w=(i)^i
+.\cropped\im_ (4859).jpg,\ln{w}=\ln{(i)^i}
+.\cropped\im_ (486).jpg,1<=\frac{x}{[x]}<2
+.\cropped\im_ (4860).jpg,\ln{w}=i\ln{(i)}
+.\cropped\im_ (4861).jpg,\ln{w}=i[i\frac{\pi}{2}]
+.\cropped\im_ (4862).jpg,-\frac{\pi}{2}
+.\cropped\im_ (4863).jpg,\ln{w}=-\frac{\pi}{2}
+.\cropped\im_ (4864).jpg,w=e^{-\frac{\pi}{2}}
+.\cropped\im_ (4865).jpg,e^{\ln{w}}=e^{-\frac{\pi}{2}}
+.\cropped\im_ (4866).jpg,\sqrt{z_1} \sqrt{z_2}\neq\sqrt{z_1z_2}
+.\cropped\im_ (4867).jpg,i^2=i\times i=\sqrt{-1} \sqrt{-1}=1
+.\cropped\im_ (4868).jpg,i^2=-1
+.\cropped\im_ (4869).jpg,i^3=i^2i
