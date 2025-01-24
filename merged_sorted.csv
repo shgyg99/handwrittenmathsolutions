@@ -46,6 +46,9 @@ Image Path,LaTeX Label
 .\cropped\im_ (49).jpg,OA=\sqrt{x_A^2+y_A^2}
 .\cropped\im_ (50).jpg,"A(x_A,y_A)"
 .\cropped\im_ (51).jpg,oA=\sqrt{36+64}=\sqrt{100}=10
+.\cropped\im_ (52).jpg,"(-6,8)"
+.\cropped\im_ (53).jpg,"M=(\frac{x_A+x_B}{2},\frac{y_A+y_B}{2})"
+.\cropped\im_ (54).jpg,"B=(x_B,y_B)"
 .\cropped\im_ (100).jpg,d=\frac{|ax+by+c|}{\sqrt{a^2+b^2}}
 .\cropped\im_ (101).jpg,\frac{|3\times 2-4\times {-1}+0|}{\sqrt{9+16}}
 .\cropped\im_ (102).jpg,\frac{10}{5}=2
@@ -460,6 +463,42 @@ Image Path,LaTeX Label
 .\cropped\im_ (511).jpg,\left|x_1\right|=\left|x_2\right|
 .\cropped\im_ (512).jpg,x_1=\pm x_2
 .\cropped\im_ (513).jpg,y=2x^3+4
+.\cropped\im_ (514).jpg,y_1=2x_1^3+4
+.\cropped\im_ (515).jpg,y_2=2x_2^3+4
+.\cropped\im_ (516).jpg,2x_1^3+4=2x_2^3+4
+.\cropped\im_ (517).jpg,\sqrt[3]{x_1^3}=\sqrt[3]{x_2^3}
+.\cropped\im_ (518).jpg,x_1=+x^2
+.\cropped\im_ (519).jpg,"R=\{(1,2)(3,5)(8,12)\}"
+.\cropped\im_ (520).jpg,"S=\{(1,2)(3,2)(4,5)\}"
+.\cropped\im_ (521).jpg,"R^{-1}=\{(2,1)(5,3)(12,8)\}"
+.\cropped\im_ (522).jpg,"s^{-1}=\{(2,1)(2,3)(4,5)\}"
+.\cropped\im_ (523).jpg,f(x)=2x+1
+.\cropped\im_ (524).jpg,f(2)=5
+.\cropped\im_ (525).jpg,f^{-1}(-5)=2
+.\cropped\im_ (526).jpg,f(0)=1
+.\cropped\im_ (527).jpg,f(1)=0
+.\cropped\im_ (528).jpg,x
+.\cropped\im_ (529).jpg,y
+.\cropped\im_ (530).jpg,f(x)=2x+1
+.\cropped\im_ (531).jpg,y=2x+1
+.\cropped\im_ (532).jpg,\frac{y-1}{2}=\frac{2x}{2}
+.\cropped\im_ (533).jpg,f^{-1}(x)y=\frac{x-1}{2}
+.\cropped\im_ (534).jpg,x=\frac{y-2}{2}
+.\cropped\im_ (535).jpg,y=\frac{2x+1}{5}
+.\cropped\im_ (536).jpg,5y=2x+1
+.\cropped\im_ (537).jpg,\frac{5y-1}{2}=\frac{2x}{2}
+.\cropped\im_ (538).jpg,f(x)=\frac{5y-1}{2}=x
+.\cropped\im_ (539).jpg,g(x)=\frac{2x+1}{5}
+.\cropped\im_ (540).jpg,\frac{5x-1}{2}=y
+.\cropped\im_ (541).jpg,fg^{-1}(x)=\frac{x-1}{2}=5y
+.\cropped\im_ (542).jpg,f(x)=\frac{3}{5}x+4
+.\cropped\im_ (543).jpg,y=\frac{3}{5}x+4
+.\cropped\im_ (544).jpg,\frac{5}{3}(y-4=\frac{3}{5}x)
+.\cropped\im_ (545).jpg,\frac{5}{3}y-\frac{20}{3}=x
+.\cropped\im_ (546).jpg,\frac{5y-20}{3}=x
+.\cropped\im_ (547).jpg,\frac{5x-20}{3}=y
+.\cropped\im_ (548).jpg,"f={(2,3)(-2,1)(-1,2)}"
+.\cropped\im_ (549).jpg,\frac{y}{1}=\frac{2x+3}{x-5}
 .\cropped\im_ (1000).jpg,6z+6dx=du
 .\cropped\im_ (1001).jpg,\int (x-1)^{243}dx
 .\cropped\im_ (1002).jpg,\frac{(x-1)^{244}}{244}+c
@@ -4597,3 +4636,364 @@ Image Path,LaTeX Label
 .\cropped\im_ (5136).jpg,-v=(a-\frac{1}{a})\sin{\theta}
 .\cropped\im_ (5137).jpg,\frac{u^2}{(a+\frac{1}{a})^2}+\frac{v^2}{(a-\frac{1}{a})^2}=1
 .\cropped\im_ (5138).jpg,u=(r+\frac{1}{r})\cos{\alpha}
+.\cropped\im_ (5139).jpg,\frac{u^2}{\cos{\alpha}^2}=r^2+\frac{1}{r^2}+r
+.\cropped\im_ (5140).jpg,\frac{v^2}{\sin{\alpha}^2}=r^2+\frac{1}{r^2}-2
+.\cropped\im_ (5141).jpg,v=(r-\frac{1}{r})\sin{\alpha}
+.\cropped\im_ (5142).jpg,\frac{u^2}{\cos{\alpha}^2}-\frac{v^2}{\sin{\alpha}^2}=4
+.\cropped\im_ (5143).jpg,w=z^k+\frac{1}{z^k}
+.\cropped\im_ (5144).jpg,\left|z\right|=d
+.\cropped\im_ (5145).jpg,w=\pm2
+.\cropped\im_ (5146).jpg,w=2k
+.\cropped\im_ (5147).jpg,w=-2k
+.\cropped\im_ (5148).jpg,w=\pm2
+.\cropped\im_ (5149).jpg,w=2k
+.\cropped\im_ (5150).jpg,w=-2k
+.\cropped\im_ (5151).jpg,w=z^k+\frac{1}{z^k}
+.\cropped\im_ (5152).jpg,u=(2^k+\frac{1}{2^k})\cos{k\theta}
+.\cropped\im_ (5153).jpg,v=(r^k-\frac{1}{r^k})\sin{k\theta}
+.\cropped\im_ (5154).jpg,w=z^k+\frac{1}{z^k}
+.\cropped\im_ (5155).jpg,r^k\cos{k\theta}+\frac{1}{r^k\cos{k\theta}}+i(r^k\sin{k\theta}-\frac{1}{r^k}\sin{k\theta})
+.\cropped\im_ (5156).jpg,u=(d^k+\frac{1}{d^k})\cos{k\theta}
+.\cropped\im_ (5157).jpg,v=(d^k-\frac{1}{d^k})\sin{k\theta}
+.\cropped\im_ (5158).jpg,\frac{u^2}{(d^k+\frac{1}{d^k})^2}+\frac{v^2}{(d^k-\frac{1}{d^k})^2}=1
+.\cropped\im_ (5159).jpg,a^2=b^2+c^2
+.\cropped\im_ (5160).jpg,d^{2k}+\frac{1}{d^{2k}}+2
+.\cropped\im_ (5161).jpg,d^{2k}+\frac{1}{d^{2k}}-2+c^2
+.\cropped\im_ (5162).jpg,c=\pm2
+.\cropped\im_ (5163).jpg,c^2=4
+.\cropped\im_ (5164).jpg,a>c
+.\cropped\im_ (5165).jpg,a^2=b^2+c^2
+.\cropped\im_ (5166).jpg,\frac{(x-\alpha)^2}{a^2}+\frac{(y-\beta)^2}{b^2}=1
+.\cropped\im_ (5167).jpg,0|_{\beta}^{\alpha}
+.\cropped\im_ (5168).jpg,"F_{1,2} |_{\beta}^{\alpha=c}"
+.\cropped\im_ (5169).jpg,"z_1,z_2"
+.\cropped\im_ (5170).jpg,\left|z_1-z_2\right|<2a
+.\cropped\im_ (5171).jpg,\left|z-z_1\right|+\left|z-z_2\right|=2a
+.\cropped\im_ (5172).jpg,\frac{(x-\alpha)^2}{a^2}-\frac{(y-\beta)^2}{b^2}=1
+.\cropped\im_ (5173).jpg,c^2=a^2+b^2
+.\cropped\im_ (5174).jpg,\left|z-z_1\right|-\left|z-z_2\right|=2a
+.\cropped\im_ (5175).jpg,\left|z_1-z_2\right|>2a
+.\cropped\im_ (5176).jpg,w=\ln{(\frac{\sin{z}^2-i}{\sin{z}^2+i})}
+.\cropped\im_ (5177).jpg,\sin{z}=\left\{\begin{matrix}u=\sin{x}chy\\v=\sin{x}shy\\\end{matrix}\right.
+.\cropped\im_ (5178).jpg,w(z)=-e^{i\frac{\pi}{4}}\frac{z^6-i}{z^6+i}+2+2i(4w(z))
+.\cropped\im_ (5179).jpg,e^{i\frac{\pi}{4}}\frac{z^6-i}{z^6+i}+2+2i(3w(z))
+.\cropped\im_ (5180).jpg,e^{i\frac{\pi}{4}}\frac{z^3-i}{z^3+i}+2+2i(2w(z))
+.\cropped\im_ (5181).jpg,-e^{i\frac{\pi}{4}}\frac{z^3-i}{z^3+i}+2+2i
+.\cropped\im_ (5182).jpg,s=\frac{T-i}{T+i}
+.\cropped\im_ (5183).jpg,\mu=-s
+.\cropped\im_ (5184).jpg,N=e^{i\frac{\pi}{4}}
+.\cropped\im_ (5185).jpg,T=z^3
+.\cropped\im_ (5186).jpg,W=N+2i+2
+.\cropped\im_ (5187).jpg,W=e^{i\frac{\pi}{4}}\mu+2+2i
+.\cropped\im_ (5188).jpg,-e^{i\frac{\pi}{4}}s+2+2i
+.\cropped\im_ (5189).jpg,-e^{i\frac{\pi}{4}}\frac{T-i}{T+i}+2+2i
+.\cropped\im_ (5190).jpg,W=-e^{i\frac{\pi}{4}}\frac{z^3-i}{z^3+i}+2+2i
+.\cropped\im_ (5191).jpg,f(z)=e^{i\pi}\frac{z^2+2i}{z^2-2i}
+.\cropped\im_ (5192).jpg,f(z)=e^{i\pi}\frac{z^2-2i}{z^2+2i}
+.\cropped\im_ (5193).jpg,f(z)=\frac{z^2+2i}{z^2-2i}
+.\cropped\im_ (5194).jpg,f(z)=\frac{z^2-2i}{z^2+2i}
+.\cropped\im_ (5195).jpg,e^{i\pi}\frac{1+i}{1-i}\times\frac{1+i}{1+i}=ie^{i\pi}=-i
+.\cropped\im_ (5196).jpg,w=e^{i\pi}\frac{-2-2i}{-2+2i}
+.\cropped\im_ (5197).jpg,z=i\sqrt{2}
+.\cropped\im_ (5198).jpg,w=\frac{e^z-i}{e^z+i}
+.\cropped\im_ (5199).jpg,A=\{z=x+iy:0<y<\pi\}
+.\cropped\im_ (5200).jpg,\left|w-i\right|<1
+.\cropped\im_ (5201).jpg,ImW<0
+.\cropped\im_ (5202).jpg,\left|w\right|>1
+.\cropped\im_ (5203).jpg,\left|w\right|<1
+.\cropped\im_ (5204).jpg,"\{\left|x\right|<\frac{\pi}{2},0<y<\infty\}"
+.\cropped\im_ (5205).jpg,\frac{2\sin{z}-2i}{\sin{z}+i}+2+i
+.\cropped\im_ (5206).jpg,\frac{2\sin{z}-i}{\sin{z}+i}+2+i
+.\cropped\im_ (5207).jpg,\frac{2\ln{z}-2i}{\ln{z}+i}+2+i
+.\cropped\im_ (5208).jpg,\frac{2\ln{z}-i}{\ln{z}+i}+2+i
+.\cropped\im_ (5209).jpg,2\frac{T-i}{T+i}
+.\cropped\im_ (5210).jpg,T=\sin{z}
+.\cropped\im_ (5211).jpg,w=2\frac{\sin{z}-i}{\sin{z}+i}+2+i
+.\cropped\im_ (5212).jpg,w=f(z)=\frac{z^2+2i}{3z}
+.\cropped\im_ (5213).jpg,"\frac{\sqrt{2}}{2}(1+i),\frac{\sqrt{2}}{2}(-1-i)"
+.\cropped\im_ (5214).jpg,"\frac{\sqrt{2}}{2}(1-i),\frac{\sqrt{2}}{2}(-1+i)"
+.\cropped\im_ (5215).jpg,"\frac{\sqrt{2}}{2}(1+i),\frac{\sqrt{2}}{2}(-1+i)"
+.\cropped\im_ (5216).jpg,"\frac{\sqrt{2}}{2}(1-i),\frac{\sqrt{2}}{2}(-1-i)^1"
+.\cropped\im_ (5217).jpg,w=f(z)
+.\cropped\im_ (5218).jpg,f(z)=z
+.\cropped\im_ (5219).jpg,z=\frac{z^2+2i}{3z}
+.\cropped\im_ (5220).jpg,z^2+2i=3z^2
+.\cropped\im_ (5221).jpg,-2z^2+2i=0
+.\cropped\im_ (5222).jpg,-2z^2=2i
+.\cropped\im_ (5223).jpg,-z^2=i
+.\cropped\im_ (5224).jpg,z=cis\frac{2k\pi+\frac{\pi}{2}}{2}
+.\cropped\im_ (5225).jpg,z_1=\frac{\sqrt{2}}{2}+i\frac{\sqrt{2}}{2}
+.\cropped\im_ (5226).jpg,z_1=-\frac{\sqrt{2}}{2}-i\frac{\sqrt{2}}{2}
+.\cropped\im_ (5227).jpg,\left|z\right|<2
+.\cropped\im_ (5228).jpg,u+v<0
+.\cropped\im_ (5229).jpg,w=e^{-i\frac{\pi}{4}}\frac{z-2i}{z+2i}
+.\cropped\im_ (5230).jpg,w=e^{i\frac{\pi}{4}}\frac{z+2i}{z-2i}
+.\cropped\im_ (5231).jpg,w=e^{i\frac{\pi}{4}}\frac{z+2i}{z-2i}
+.\cropped\im_ (5232).jpg,w=e^{i\frac{\pi}{4}}\frac{z-2i}{z+2i}
+.\cropped\im_ (5233).jpg,T=e^{i\frac{\pi}{4}}z
+.\cropped\im_ (5234).jpg,2e^{i\theta}\frac{T+i}{T-i}
+.\cropped\im_ (5235).jpg,v=-u
+.\cropped\im_ (5236).jpg,w=2e^{i\theta}\frac{e^{i\frac{\pi}{4}}z+i}{e^{i\frac{\pi}{4}}z-i}
+.\cropped\im_ (5237).jpg,e^{i\frac{\pi}{4}}zw-jw
+.\cropped\im_ (5238).jpg,2e^{i\theta}e^{i\frac{\pi}{4}}+2e^{i\theta}i
+.\cropped\im_ (5239).jpg,z(e^{i\frac{\pi}{4}}w-2e^{i\theta}e^{i\frac{\pi}{4}})
+.\cropped\im_ (5240).jpg,iw+2e^{i\theta}i
+.\cropped\im_ (5241).jpg,e^{i\frac{\pi}{4}}\frac{z+2e^{i\theta}}{z-2e^{i\theta}}
+.\cropped\im_ (5242).jpg,z=e^{-i\frac{\pi}{4}}i\frac{w+2e^{i\theta}}{w-2e^{i\theta}}
+.\cropped\im_ (5243).jpg,\theta=\frac{\pi}{2}
+.\cropped\im_ (5244).jpg,\theta=\frac{-\pi}{2}
+.\cropped\im_ (5245).jpg,-w=e^{i\frac{\pi}{4}}\frac{z+2i}{z-2i}
+.\cropped\im_ (5246).jpg,w=e^{i\frac{\pi}{4}}\frac{z-2i}{z+2i}
+.\cropped\im_ (5247).jpg,w=\frac{z-1}{z-2}
+.\cropped\im_ (5248).jpg,\left|z+1\right|=3
+.\cropped\im_ (5249).jpg,9\left|w-1\right|^2
+.\cropped\im_ (5250).jpg,\left|3w-2\right|^2
+.\cropped\im_ (5251).jpg,\left|\frac{3w-2}{w-1}\right|=3
+.\cropped\im_ (5252).jpg,\left|\frac{2w-1}{w-1}+1\right|=3
+.\cropped\im_ (5253).jpg,\left|z+1\right|=3
+.\cropped\im_ (5254).jpg,z=\frac{2w-1}{w-1}
+.\cropped\im_ (5255).jpg,(3u-2)^2+9v^2=9(u-1)^2+9v^2
+.\cropped\im_ (5256).jpg,-12u+4=-18u+9
+.\cropped\im_ (5257).jpg,6u=5
+.\cropped\im_ (5258).jpg,u=\frac{5}{6}
+.\cropped\im_ (5259).jpg,\lim_{x\to x_0}{f(x)}=L
+.\cropped\im_ (5260).jpg,"\forall\varepsilon>0,\exists\delta>0,\left|x-x_0\right|<\delta\Rightarrow\left|f(x)-L\right|<\varepsilon."
+.\cropped\im_ (5261).jpg,\left|x-a\right|<b
+.\cropped\im_ (5262).jpg,"\exists\delta>0,\forall\varepsilon>0,\left|x-x_0\right|<\delta\Rightarrow\left|f(x)-L\right|<\varepsilon."
+.\cropped\im_ (5263).jpg,\lim_{z\to z_0}{f(z)}=L
+.\cropped\im_ (5264).jpg,"\forall\beta>0,\exists\alpha>0\rightarrow\left|z-z_0\right|<\alpha\rightarrow\left|f(z)-L\right|<\beta."
+.\cropped\im_ (5265).jpg,\lim_{z\to z_0}{f(z)}
+.\cropped\im_ (5266).jpg,z=rcis\theta
+.\cropped\im_ (5267).jpg,z-z_0=t
+.\cropped\im_ (5268).jpg,r\to 0
+.\cropped\im_ (5269).jpg,1\lim_{z\to 0}{\frac{z^2}{(\bar{z})^2}}
+.\cropped\im_ (5270).jpg,\frac{r^2cis2\theta}{r^2cis(-2\theta)}=cis(4\theta)
+.\cropped\im_ (5271).jpg,\lim_{z\to 0}{\frac{z^3+2\bar{z}}{\bar{z}}}
+.\cropped\im_ (5272).jpg,\frac{r^3cis3\theta}{rcis(-\theta)}+2
+.\cropped\im_ (5273).jpg,r^2cis_{r\to\ 0}(4\theta)+2=2
+.\cropped\im_ (5274).jpg,\lim_{\Delta x\to 0}{\frac{\Delta y}{\Delta x}}
+.\cropped\im_ (5275).jpg,\lim_{x\to x_0}{\frac{f(x)-f(x_0)}{x-x_0}}
+.\cropped\im_ (5276).jpg,\lim_{h\to 0}{\frac{f(x_0+h)-f(x_0)}{h}}
+.\cropped\im_ (5277).jpg,\lim_{\Delta z\to 0}{\frac{\Delta w}{\Delta z}}
+.\cropped\im_ (5278).jpg,\lim_{z\to z_0}{\frac{f(z)-f(z_0)}{z-z_0}}
+.\cropped\im_ (5279).jpg,\lim_{h\to0}{\frac{f(z_0+h)-f(z_0)}{h}}
+.\cropped\im_ (5280).jpg,\lim_{\Delta z\to0}{\frac{f(z_0+\Delta z)-f(z_0)}{\Delta z}}
+.\cropped\im_ (5281).jpg,\frac{\partial u}{\partial x}=\frac{\partial x}{\partial y}
+.\cropped\im_ (5282).jpg,\frac{\partial u}{\partial r}=\frac{1}{2}\frac{\partial v}{\partial \theta}
+.\cropped\im_ (5283).jpg,f(z)=u+iv
+.\cropped\im_ (5284).jpg,\frac{\partial u}{\partial y}=\frac{-\partial v}{\partial x}
+.\cropped\im_ (5285).jpg,\frac{\partial u}{\partial \theta}=-r\frac{\partial v}{\partial r}
+.\cropped\im_ (5286).jpg,\left\{\begin{matrix}u=x\\v=-y\\\end{matrix}\right.
+.\cropped\im_ (5287).jpg,w=f(z)=\bar{z}=x-iy
+.\cropped\im_ (5288).jpg,f(z)=\bar{z}
+.\cropped\im_ (5289).jpg,f(z)=\left\{\begin{matrix}\frac{(\bar{z})^2}{z}&z\neq0\\0&z=0\\\end{matrix}\right.
+.\cropped\im_ (5290).jpg,f(z)=\frac{(x-iy)^2}{x+iy}
+.\cropped\im_ (5291).jpg,f(z)=iy
+.\cropped\im_ (5292).jpg,f(x)=x
+.\cropped\im_ (5293).jpg,f'(0)=\frac{(\frac{\bar{z}}{z})^2-0}{z-0}=\frac{(\bar{z})^2}{z^2}
+.\cropped\im_ (5294).jpg,f(z)=\left\{\begin{matrix}\frac{(\bar{z})^3}{z^2}&z\neq0\\0&z=0\\\end{matrix}\right.
+.\cropped\im_ (5295).jpg,f(z)=\frac{(\bar{z})^3}{z^2}=\frac{(x-iy)^3}{(x+iy)^2}
+.\cropped\im_ (5296).jpg,\frac{\partial u}{\partial x} |_{y=0}=1
+.\cropped\im_ (5297).jpg,\frac{\partial v}{\partial x} |_{y=0}=0
+.\cropped\im_ (5298).jpg,\frac{\partial v}{\partial y} |_{y=0}=-1
+.\cropped\im_ (5299).jpg,\frac{\partial u}{\partial y} |_{x=0}=0
+.\cropped\im_ (5300).jpg,f'(0)=\frac{\frac{(\bar{z})^3}{z^2}-0}{z-0}=\frac{(\bar{z})^3}{z}
+.\cropped\im_ (5301).jpg,f(z)=u+iv
+.\cropped\im_ (5302).jpg,w=\sin{z}
+.\cropped\im_ (5303).jpg,w=\sin{z}\left\{\begin{matrix}u=\sin{x}chy\\v=\cos{x}shy\\\end{matrix}\right.
+.\cropped\im_ (5304).jpg,\frac{\partial u}{\partial x}=\cos{x}chy
+.\cropped\im_ (5305).jpg,\frac{\partial u}{\partial y}=\sin{x}shy
+.\cropped\im_ (5306).jpg,\frac{\partial v}{\partial x}=-\sin{x}shy
+.\cropped\im_ (5307).jpg,\frac{\partial x}{\partial y}=\cos{x}chy
+.\cropped\im_ (5308).jpg,w=\left|z\right|^2
+.\cropped\im_ (5309).jpg,\left\{\begin{matrix}u=x^2+y^2\\v=0\\\end{matrix}\right.
+.\cropped\im_ (5310).jpg,w=\left|z\right|^2=x^2+y^2
+.\cropped\im_ (5311).jpg,\frac{\partial u}{\partial x}=2x
+.\cropped\im_ (5312).jpg,\frac{\partial u}{\partial y}=2y
+.\cropped\im_ (5313).jpg,\frac{\partial v}{\partial x}=0
+.\cropped\im_ (5314).jpg,\frac{\partial v}{\partial y}=0
+.\cropped\im_ (5315).jpg,w=x^2+iy^2
+.\cropped\im_ (5316).jpg,\left\{\begin{matrix}u=x^2\\v=y^2\\\end{matrix}\right.
+.\cropped\im_ (5317).jpg,w=x^2+iy^2
+.\cropped\im_ (5318).jpg,\frac{\partial u}{\partial x}=2x
+.\cropped\im_ (5319).jpg,\frac{\partial u}{\partial y}=0
+.\cropped\im_ (5320).jpg,\frac{\partial v}{\partial x}=0
+.\cropped\im_ (5321).jpg,\frac{\partial v}{\partial y}=2y
+.\cropped\im_ (5322).jpg,2x=2y\rightarrow x=y
+.\cropped\im_ (5323).jpg,w=\cos{(\bar{z})}=\cos{(x-iy)}
+.\cropped\im_ (5324).jpg,w=\cos{(\bar{z})}
+.\cropped\im_ (5325).jpg,\left\{\begin{matrix}u=\cos{x}chy\\v=\sin{x}shy\\\end{matrix}\right.
+.\cropped\im_ (5326).jpg,\frac{\partial u}{\partial x}=-\sin{x}chy
+.\cropped\im_ (5327).jpg,\frac{\partial u}{\partial y}=-shy\cos{x}
+.\cropped\im_ (5328).jpg,\frac{\partial v}{\partial x}=\cos{x}shy
+.\cropped\im_ (5329).jpg,\frac{\partial v}{\partial y}=chy\sin{x}
+.\cropped\im_ (5330).jpg,\frac{\partial u}{\partial x}=\frac{\partial v}{\partial y}
+.\cropped\im_ (5331).jpg,\frac{\partial u}{\partial y}=\frac{-\partial v}{\partial x}
+.\cropped\im_ (5332).jpg,2\cos{x}shy=0
+.\cropped\im_ (5333).jpg,-\sin{x}chy=\sin{x}chy
+.\cropped\im_ (5334).jpg,2\sin{x}chy=0
+.\cropped\im_ (5335).jpg,\sin{x}=0
+.\cropped\im_ (5336).jpg,x=-k\pi
+.\cropped\im_ (5337).jpg,x=(2x-1)\frac{x}{2}
+.\cropped\im_ (5338).jpg,\cos{x}=0
+.\cropped\im_ (5339).jpg,shy=0
+.\cropped\im_ (5340).jpg,y=0
+.\cropped\im_ (5341).jpg,z=k\pi
+.\cropped\im_ (5342).jpg,w=\ln{z}=\ln{r}+i\theta
+.\cropped\im_ (5343).jpg,w=\ln{z}
+.\cropped\im_ (5344).jpg,\left\{\begin{matrix}\frac{\partial u}{\partial r}=\frac{1}{r}\\\frac{\partial u}{\partial g}=0\\\end{matrix}\right.
+.\cropped\im_ (5345).jpg,\left\{\begin{matrix}\frac{\partial v}{\partial r}=0\\\frac{\partial v}{\partial\theta}=1\\\end{matrix}\right.
+.\cropped\im_ (5346).jpg,\frac{1}{r}=\frac{1}{r}
+.\cropped\im_ (5347).jpg,\frac{\partial u}{\partial r}=\frac{1}{r}\frac{\partial v}{\partial\theta}
+.\cropped\im_ (5348).jpg,\frac{\partial u}{\partial\theta}=-r\frac{\partial v}{\partial r}
+.\cropped\im_ (5349).jpg,\ln{z}=\ln{r}+i(\theta+2k\pi)
+.\cropped\im_ (5350).jpg,\ln{-1}=\ln{1}+i(\pi+2k\pi)=i(\pi+2k\pi)
+.\cropped\im_ (5351).jpg,\alpha<\theta<=2\pi+\alpha
+.\cropped\im_ (5352).jpg,\alpha=-\pi
+.\cropped\im_ (5353).jpg,\ln{z}=\ln{r}+i\theta
+.\cropped\im_ (5354).jpg,\alpha<\theta<=\alpha+2\pi.
+.\cropped\im_ (5355).jpg,\frac{\partial f}{\partial\ber{z}}=0
+.\cropped\im_ (5356).jpg,\frac{\partial w}{\partial\ber{z}}=0
+.\cropped\im_ (5357).jpg,w=\bar{z}z
+.\cropped\im_ (5358).jpg,\frac{\partial w}{\partial\bar{z}}=0
+.\cropped\im_ (5359).jpg,w=\cos{(\bar{z})}
+.\cropped\im_ (5360).jpg,\frac{\partial w}{\partial\bar{z}}=-\sin{\bar{z}}=0
+.\cropped\im_ (5361).jpg,\bar{z}=k\pi.
+.\cropped\im_ (5362).jpg,z=k\pi.
+.\cropped\im_ (5363).jpg,\frac{\partial w}{\partial\bar{z}}=0
+.\cropped\im_ (5364).jpg,f(z)=z^4e^{z^2}\cos{z}
+.\cropped\im_ (5365).jpg,\frac{\partial f}{\partial\bar{z}}=0
+.\cropped\im_ (5366).jpg,w=\left|z\right|^2
+.\cropped\im_ (5367).jpg,f(z)=\lambda^2+iy^2
+.\cropped\im_ (5368).jpg,x=y
+.\cropped\im_ (5369).jpg,f'(z)=\frac{\partial u}{\partial x}+i\frac{\partial v}{\partial x}
+.\cropped\im_ (5370).jpg,\frac{\partial u}{\partial x}-i\frac{\partial u}{\partial y}
+.\cropped\im_ (5371).jpg,\frac{\partial v}{\partial y}+i\frac{\partial v}{\partial x}
+.\cropped\im_ (5372).jpg,f(z)=u+iv
+.\cropped\im_ (5373).jpg,f(z)=u+iv
+.\cropped\im_ (5374).jpg,u=\sin{x}chy+2xy
+.\cropped\im_ (5375).jpg,f'(z)
+.\cropped\im_ (5376).jpg,f'(z)=\frac{\partial u}{\partial x}-i\frac{\partial u}{\partial y}
+.\cropped\im_ (5377).jpg,\cos{x}chy+2y-i(\sin{x}shy+2x)
+.\cropped\im_ (5378).jpg,f'(z)=\cos{z}-2iz
+.\cropped\im_ (5379).jpg,f(z)=u+iv
+.\cropped\im_ (5380).jpg,f(x+iy) |_{\begin{matrix}x=z\\y=0\\\end{matrix}}=f(z)
+.\cropped\im_ (5381).jpg,f(r\theta^{i\theta}) |_{\begin{matrix}r=z\\\theta=0\\\end{matrix}}=f(z)
+.\cropped\im_ (5382).jpg,f(z)=x^2+iy^2
+.\cropped\im_ (5383).jpg,f(z)=x^2-y^2+i2xy
+.\cropped\im_ (5384).jpg,x_2+i2xy-y^2
+.\cropped\im_ (5385).jpg,(x+iy)^2
+.\cropped\im_ (5386).jpg,z^2
+.\cropped\im_ (5387).jpg,f(z)=x^2+iy^2 |_{\begin{matrix}x=z\\y=0\\\end{matrix}}
+.\cropped\im_ (5388).jpg,f'(z)=(\frac{\partial u}{\partial r}+i\frac{\partial v}{\partial r})e^{-i\theta}
+.\cropped\im_ (5389).jpg,(\frac{\partial u}{\partial r}+i\frac{1}{r}\frac{\partial u}{\partial\theta})e^{-i\theta}
+.\cropped\im_ (5390).jpg,(\frac{1}{r}\frac{\partial v}{\partial \theta}+i\frac{\partial v}{\partial r})e^{-i\theta}
+.\cropped\im_ (5391).jpg,f(z)=u+iv
+.\cropped\im_ (5392).jpg,v=r^2\cos{2\theta}
+.\cropped\im_ (5393).jpg,f'(z)=(\frac{1}{r}(-2r^2\sin{2\theta})+i2r\cos{2\theta})e^{-i\theta} |_{\begin{matrix}\theta=0\\r=z\\\end{matrix}}=2iz
+.\cropped\im_ (5394).jpg,"f(z)=u(x,y)+iv(x,y)"
+.\cropped\im_ (5395).jpg,"u(x,y)=2x-2xy"
+.\cropped\im_ (5396).jpg,f'(z)=2(1-y)+2iy
+.\cropped\im_ (5397).jpg,f'(z)=2(1-y)+2ix
+.\cropped\im_ (5398).jpg,f'(z)=2(1-y)+2i(x+y)
+.\cropped\im_ (5399).jpg,f'(z)=2(1-y)+2i(x-y)
+.\cropped\im_ (5400).jpg,u=2x-2xy
+.\cropped\im_ (5401).jpg,f'(z)=\frac{\partial u}{\partial x}-i\frac{\partial u}{\partial y}
+.\cropped\im_ (5402).jpg,2-2y-i(0-2x)
+.\cropped\im_ (5403).jpg,f'(z)=2-2y+i2x
+.\cropped\im_ (5404).jpg,f'(z)=2(1-y)+2ix
+.\cropped\im_ (5405).jpg,"u(x,y)=e^{-2xy}\sin{(x^2-y^2)}"
+.\cropped\im_ (5406).jpg,2\cos{1}+2i\sin{1}
+.\cropped\im_ (5407).jpg,\cos{1}-2i\sin{1}
+.\cropped\im_ (5408).jpg,2\cos{1}+i\sin{1}
+.\cropped\im_ (5409).jpg,\cos{1}-i\sin{1}
+.\cropped\im_ (5410).jpg,f'(z)=\frac{\partial u}{\partial x}-i\frac{\partial u}{\partial y}=(2\cos{z})+i(2\sin{z})
+.\cropped\im_ (5411).jpg,f(z)=u+iv
+.\cropped\im_ (5412).jpg,u_{x_x}+u_{y_y}=0
+.\cropped\im_ (5413).jpg,u_{r_r}+\frac{1}{r}u_r+\frac{1}{r^2}u_{\theta_\theta}=0
+.\cropped\im_ (5414).jpg,u_{z\bar{z}}=0
+.\cropped\im_ (5415).jpg,u=r^m\cos{\theta}
+.\cropped\im_ (5416).jpg,u_{rr}+\frac{1}{r}u_r+\frac{1}{r^2}u_{\theta_\theta}=0
+.\cropped\im_ (5417).jpg,m^2-1=0
+.\cropped\im_ (5418).jpg,m=\pm1
+.\cropped\im_ (5419).jpg,f(z)=u+iv
+.\cropped\im_ (5420).jpg,u^{\alpha x}=e\sin{y}+2\beta xy
+.\cropped\im_ (5421).jpg,u_{xx}=\alpha^2e^x\sin{y}=0
+.\cropped\im_ (5422).jpg,u_{yy}=-e^{\alpha x}\sin{y}
+.\cropped\im_ (5423).jpg,u_{xx}+u_{yy}=0
+.\cropped\im_ (5424).jpg,\alpha^2-1=0
+.\cropped\im_ (5425).jpg,\alpha=\pm1
+.\cropped\im_ (5426).jpg,"Ref(z)=u(x,y)=\alpha x^2y-y^3-\beta y"
+.\cropped\im_ (5427).jpg,\alpha=-3
+.\cropped\im_ (5428).jpg,\alpha=3
+.\cropped\im_ (5429).jpg,u_{xx}+u_{yy}=0
+.\cropped\im_ (5430).jpg,2\alpha y-6y=0
+.\cropped\im_ (5431).jpg,\alpha=3
+.\cropped\im_ (5432).jpg,\frac{\partial^2U}{\partial z\partial\bar{z}}
+.\cropped\im_ (5433).jpg,z=x+iy
+.\cropped\im_ (5434).jpg,"u=u(x,y)"
+.\cropped\im_ (5435).jpg,\frac{-1}{4}
+.\cropped\im_ (5436).jpg,\frac{1}{4i}
+.\cropped\im_ (5437).jpg,\frac{1}{4}
+.\cropped\im_ (5438).jpg,\left\{\begin{matrix}u=x\\v=y\\\end{matrix}\right.
+.\cropped\im_ (5439).jpg,z=x+iy
+.\cropped\im_ (5440).jpg,\frac{\partial u}{\partial z}
+.\cropped\im_ (5441).jpg,"f(z)=u(x,y)+iv(x,y)"
+.\cropped\im_ (5442).jpg,z=x+iy
+.\cropped\im_ (5443).jpg,"u(x,y)=\alpha xchx\cos{y}+\beta yshx\sin{y}"
+.\cropped\im_ (5444).jpg,\alpha\beta=0
+.\cropped\im_ (5445).jpg,\beta=-\alpha
+.\cropped\im_ (5446).jpg,\alpha=\beta=1
+.\cropped\im_ (5447).jpg,\beta=\alpha
+.\cropped\im_ (5448).jpg,u_{xx}+u_{yy}=0
+.\cropped\im_ (5449).jpg,\alpha+\beta=0
+.\cropped\im_ (5450).jpg,\alpha=-\beta
+.\cropped\im_ (5451).jpg,"u(x,y)"
+.\cropped\im_ (5452).jpg,f(z)=u+ix
+.\cropped\im_ (5453).jpg,"u(x,y)"
+.\cropped\im_ (5454).jpg,f(z)=u+ix
+.\cropped\im_ (5455).jpg,"v(x,y)"
+.\cropped\im_ (5456).jpg,f(z)=u+iv
+.\cropped\im_ (5457).jpg,dv=\frac{\partial v}{\partial y}dy+\frac{\partial v}{\partial x}dx
+.\cropped\im_ (5458).jpg,v=\int{\frac{\partial u}{\partial x}dy}-\int{(\frac{\partial u}{\partial y})^{*}dx}
+.\cropped\im_ (5459).jpg,u=\int{\frac{\partial v}{\partial y}dy}-\int{(\frac{\partial v}{\partial x})^{*}dy}
+.\cropped\im_ (5460).jpg,du=\frac{\partial u}{\partial x}dx+\frac{\partial u}{\partial y}dy
+.\cropped\im_ (5461).jpg,f(z)=u+iv
+.\cropped\im_ (5462).jpg,u=e^x\cos{y}+2xy
+.\cropped\im_ (5463).jpg,v=\int{\frac{\partial u}{\partial x}dy}-\int{(\frac{\partial u}{\partial y})^{*}dx}
+.\cropped\im_ (5464).jpg,\int{(e^x\cos{y}+2y)dy}-\int{(-e^x\sin{y}+2x)dx}
+.\cropped\im_ (5465).jpg,e^x\sin{y}+y^2-x^2+c
+.\cropped\im_ (5466).jpg,dv=\frac{\partial v}{\partial\theta}d\theta+\frac{\partial v}{\partial r}dr
+.\cropped\im_ (5467).jpg,v=\int{(r\frac{\partial u}{\partial r})d\theta}-\int{(\frac{1}{r}\frac{\partial u}{\partial\theta})^{*}dr}
+.\cropped\im_ (5468).jpg,du=\frac{\partial u}{\partial r}dr+\frac{\partial u}{\partial\theta}d\theta.
+.\cropped\im_ (5469).jpg,u=\int{(\frac{1}{r}\frac{\partial v}{\partial\theta})dr}-\int{(r\frac{\partial v}{\partial r})^{*}d\theta}
+.\cropped\im_ (5470).jpg,f(z)=u+iv
+.\cropped\im_ (5471).jpg,v=r^2\cos{2\theta}
+.\cropped\im_ (5472).jpg,u=\int{(\frac{1}{r}\frac{\partial v}{\partial\theta})dr}-\int{(r\frac{\partial v}{\partial r})^{*}d\theta}
+.\cropped\im_ (5473).jpg,\int{(\frac{1}{r}(-2r^2\sin{(2\theta)}))dr}-\int{(r2r\cos{2\theta})d\theta}
+.\cropped\im_ (5474).jpg,-r^2\sin{2\theta}+c
+.\cropped\im_ (5475).jpg,w=f(z)
+.\cropped\im_ (5476).jpg,v=2xy
+.\cropped\im_ (5477).jpg,f(z)=2z(z-1)
+.\cropped\im_ (5478).jpg,u=x^2-y^2+2x
+.\cropped\im_ (5479).jpg,"f(z)=2z(z+1),v=xy+2y"
+.\cropped\im_ (5480).jpg,"f(z)=z(z+2),v=2xy-2y"
+.\cropped\im_ (5481).jpg,"f(z)=z^2+2z,v=y(2x+2)"
+.\cropped\im_ (5482).jpg,\int{(2x+2)dy}-\int{(-2y)dx}=2xy+2y
+.\cropped\im_ (5483).jpg,v=\int{\frac{\partial u}{\partial x}dy}-\int{(\frac{\partial u}{\partial y})^{*}dx}
+.\cropped\im_ (5484).jpg,"u(x,y)=y^3-3x^2y"
+.\cropped\im_ (5485).jpg,-3xy^2+x^3+c
+.\cropped\im_ (5486).jpg,-3xy^2+x^3+c
+.\cropped\im_ (5487).jpg,-2x^2y^2+x^3+c
+.\cropped\im_ (5488).jpg,-4xy+y^2+c
+.\cropped\im_ (5489).jpg,v=\int{\frac{\partial u}{\partial x}dy}-\int{(\frac{\partial u}{\partial y})^{*}dx}
+.\cropped\im_ (5490).jpg,\int{(-6xy)dy}-\int{(3y^2-3x^2)dx}
+.\cropped\im_ (5491).jpg,-3xy^2+x^3+c
+.\cropped\im_ (5492).jpg,u=\ln{(x^2+y^2)}
+.\cropped\im_ (5493).jpg,v=\frac{1}{2}ctg^{-1}\frac{x}{y}+c
+.\cropped\im_ (5494).jpg,v=\frac{1}{2}tg^{-1}\frac{x}{y}+c
+.\cropped\im_ (5495).jpg,v=2tg^{-1}\frac{y}{x}+c
+.\cropped\im_ (5496).jpg,v=2\cot{g^{-1}\frac{y}{x}}+c
+.\cropped\im_ (5497).jpg,v=\int{\frac{\partial u}{\partial x}dy}-\int{(\frac{\partial u}{\partial y})^{*}dx}
+.\cropped\im_ (5498).jpg,\int{\frac{2x}{x^2+y^2}dy}-\int{\frac{2y}{x^2+y^2}dx}
+.\cropped\im_ (5499).jpg,\frac{1}{a}tg^{-1}\frac{u}{a}=2tg^{-1}\frac{y}{x}+c
