@@ -4,6 +4,7 @@ Image Path,LaTeX Label
 .\cropped\im_ (3).jpg,y=ax+b
 .\cropped\im_ (4).jpg,y=2x+6
 .\cropped\im_ (5).jpg,m=\frac{-a}{b}
+.\cropped\im_ (6).jpg,m=\frac{-a}{b}
 .\cropped\im_ (10).jpg,y=2\times x +3
 .\cropped\im_ (11).jpg,m=m'
 .\cropped\im_ (12).jpg,y=2x+1
@@ -49,6 +50,14 @@ Image Path,LaTeX Label
 .\cropped\im_ (52).jpg,"(-6,8)"
 .\cropped\im_ (53).jpg,"M=(\frac{x_A+x_B}{2},\frac{y_A+y_B}{2})"
 .\cropped\im_ (54).jpg,"B=(x_B,y_B)"
+.\cropped\im_ (55).jpg,"A=(x_A,y_A)"
+.\cropped\im_ (56).jpg,"(2,-2)"
+.\cropped\im_ (57).jpg,"(6,4)"
+.\cropped\im_ (58).jpg,M=(\frac{2+6}{2})=4=x
+.\cropped\im_ (59).jpg,M=\frac{-2+4}{2}=\frac{2}{2}=1=y
+.\cropped\im_ (60).jpg,"M=(4,1)"
+.\cropped\im_ (61).jpg,r=\frac{2\sqrt{13}}{2}=\sqrt{13}
+.\cropped\im_ (62).jpg,AB=\sqrt{(6-2)^2}+(4+2)=\sqrt{16+36}=\sqrt{52}=\sqrt{2\times13}=2\sqrt{13}
 .\cropped\im_ (100).jpg,d=\frac{|ax+by+c|}{\sqrt{a^2+b^2}}
 .\cropped\im_ (101).jpg,\frac{|3\times 2-4\times {-1}+0|}{\sqrt{9+16}}
 .\cropped\im_ (102).jpg,\frac{10}{5}=2
@@ -499,6 +508,78 @@ Image Path,LaTeX Label
 .\cropped\im_ (547).jpg,\frac{5x-20}{3}=y
 .\cropped\im_ (548).jpg,"f={(2,3)(-2,1)(-1,2)}"
 .\cropped\im_ (549).jpg,\frac{y}{1}=\frac{2x+3}{x-5}
+.\cropped\im_ (550).jpg,f(x)=\frac{2x+3}{x-5}
+.\cropped\im_ (551).jpg,y(x-5)=2x+3
+.\cropped\im_ (552).jpg,xy-5y=2x+3
+.\cropped\im_ (553).jpg,\frac{x(y-2)}{y-2}=\frac{5y+3}{y-2}
+.\cropped\im_ (554).jpg,x=\frac{5y+3}{y-2}
+.\cropped\im_ (555).jpg,f^{-1}(x)=\frac{5x+3}{y-2}
+.\cropped\im_ (556).jpg,0=4a
+.\cropped\im_ (557).jpg,"(1,4)"
+.\cropped\im_ (558).jpg,y=ax+1
+.\cropped\im_ (559).jpg,"\frac{(4,1)}{(1,4)}"
+.\cropped\im_ (560).jpg,4=(1)a+1
+.\cropped\im_ (561).jpg,3=a
+.\cropped\im_ (562).jpg,y=3x+1
+.\cropped\im_ (563).jpg,D_f\cap D_f
+.\cropped\im_ (564).jpg,D_{\frac{f}{g}}=D_{f}\cap D_{f}-\left{x|g(x)=0\right}
+.\cropped\im_ (565).jpg,"f={(1,2)(2,-1)(3,1)(4,0)}"
+.\cropped\im_ (566).jpg,"g=\left{(0,3)(1,-1)(2,1)(3,0)\right}"
+.\cropped\im_ (567).jpg,"D_f\cap D_g=\left{1,2,3\right}"
+.\cropped\im_ (568).jpg,"f+g=\left{(1,1)(2,0)(3,1)\right}"
+.\cropped\im_ (569).jpg,"f-g=\left{(1,3)(2,-2)(3,1)\right}"
+.\cropped\im_ (570).jpg,"f\times g=\left{(1,-2)(2,-1)(3,0)\right}"
+.\cropped\im_ (571).jpg,"\frac{f}{g}=\left{(1,-2)(2,-1)(3,\frac{1}{0})\right}"
+.\cropped\im_ (572).jpg,"2f+3g=\left{(1,1)(2,1)(3,2)\right}"
+.\cropped\im_ (573).jpg,2\times-1+3\times1
+.\cropped\im_ (574).jpg,2\times2+3\times-1=1
+.\cropped\im_ (575).jpg,(f+g)(2)=f(2)+g(2)
+.\cropped\im_ (576).jpg,(f+g)(x)=f(x)+g(x)
+.\cropped\im_ (577).jpg,f(x)=x^2+1
+.\cropped\im_ (578).jpg,g(x)=2x+1
+.\cropped\im_ (579).jpg,(f+g)(x)=(x^2+1)+(2x+1)\Rightarrow x^2+2x+2
+.\cropped\im_ (580).jpg,(f\times g)(x)=(x^2+1)\times(2x+1)
+.\cropped\im_ (581).jpg,D_{\frac{f}{g}}=D_f\cap D_g-\left{x|g(x)=0\right}
+.\cropped\im_ (582).jpg,R-\left{-\frac{1}{2}\right}
+.\cropped\im_ (583).jpg,x=-\frac{1}{2}
+.\cropped\im_ (584).jpg,2x=-1
+.\cropped\im_ (585).jpg,2x+1=0
+.\cropped\im_ (586).jpg,(\frac{f}{g})(x)=\frac{x^2+1}{2x+1}
+.\cropped\im_ (587).jpg,\frac{f}{g}(0)=\frac{(0)^2+1}{2(0)+1}=\frac{1}{1}=1
+.\cropped\im_ (588).jpg,f(x)=\sqrt{x^2-9}
+.\cropped\im_ (589).jpg,g(x)=[\frac{x}{2}]
+.\cropped\im_ (590).jpg,(f\times g)(50)
+.\cropped\im_ (591).jpg,\sqrt{25-9}=\sqrt{16}=4=f(y)
+.\cropped\im_ (592).jpg,[\frac{5}{2}]=[2/5]\Rightarrow2
+.\cropped\im_ (593).jpg,2\times4=8
+.\cropped\im_ (594).jpg,(f\times g)(5)
+.\cropped\im_ (595).jpg,f(x)\left\{\begin{matrix}-2&0<x<=2\\-x+4&2<x<4\\\end{matrix}\right.
+.\cropped\im_ (596).jpg,g(x)\left\{\begin{matrix}2&0<=x\\2x+\frac{3}{5}&2<x<4\\\end{matrix}\right.
+.\cropped\im_ (597).jpg,f-g
+.\cropped\im_ (598).jpg,0<x<=2
+.\cropped\im_ (599).jpg,2<x<4
+.\cropped\im_ (600).jpg,-2-2=-4
+.\cropped\im_ (601).jpg,-x+4-2x-\frac{3}{5}=-3x+\frac{17}{5}
+.\cropped\im_ (602).jpg,f-g(x)
+.\cropped\im_ (603).jpg,"(0,2)"
+.\cropped\im_ (604).jpg,"(1,2)"
+.\cropped\im_ (605).jpg,"(2,2)"
+.\cropped\im_ (606).jpg,"(4,2)"
+.\cropped\im_ (607).jpg,"(3,1)"
+.\cropped\im_ (608).jpg,f(x)=\frac{x}{\sqrt{x+3}}
+.\cropped\im_ (609).jpg,g(x)=\frac{x-3}{\sqrt{x+3}}
+.\cropped\im_ (610).jpg,\frac{f(x)}{g(x)}
+.\cropped\im_ (611).jpg,\frac{f}{g}(x)=\frac{x}{\sqrt{x+3}}\times\frac{\sqrt{x+3}}{x-3}=\frac{x}{x-3}
+.\cropped\im_ (612).jpg,x-3=0
+.\cropped\im_ (613).jpg,x=3
+.\cropped\im_ (614).jpg,"D_{\frac{f}{g}}=(-3,3)\cup(3,+\infty)"
+.\cropped\im_ (615).jpg,f(x)=\sqrt{x}
+.\cropped\im_ (616).jpg,g(x)=\sqrt{-x}
+.\cropped\im_ (617).jpg,f\times g
+.\cropped\im_ (618).jpg,f-g
+.\cropped\im_ (619).jpg,D_f\cap D_g=\left{0\right}
+.\cropped\im_ (620).jpg,D_fx>=0
+.\cropped\im_ (621).jpg,D_g x<=0
 .\cropped\im_ (1000).jpg,6z+6dx=du
 .\cropped\im_ (1001).jpg,\int (x-1)^{243}dx
 .\cropped\im_ (1002).jpg,\frac{(x-1)^{244}}{244}+c
@@ -4997,3 +5078,722 @@ Image Path,LaTeX Label
 .\cropped\im_ (5497).jpg,v=\int{\frac{\partial u}{\partial x}dy}-\int{(\frac{\partial u}{\partial y})^{*}dx}
 .\cropped\im_ (5498).jpg,\int{\frac{2x}{x^2+y^2}dy}-\int{\frac{2y}{x^2+y^2}dx}
 .\cropped\im_ (5499).jpg,\frac{1}{a}tg^{-1}\frac{u}{a}=2tg^{-1}\frac{y}{x}+c
+.\cropped\im_ (5500).jpg,f(z)=u+iv
+.\cropped\im_ (5501).jpg,"c-\{(0,0)\}"
+.\cropped\im_ (5502).jpg,u=\frac{x}{x^2+y^2}
+.\cropped\im_ (5503).jpg,"R^2-\{(0,0)\}"
+.\cropped\im_ (5504).jpg,u=\frac{r\cos{\theta}}{r^2}=\frac{\cos{\theta}}{r}
+.\cropped\im_ (5505).jpg,v=\frac{-y}{x^2+y^2}
+.\cropped\im_ (5506).jpg,v=\frac{xy}{x^2+y^2}
+.\cropped\im_ (5507).jpg,v=\frac{xy}{x^2-y^2}
+.\cropped\im_ (5508).jpg,"v(x,y)"
+.\cropped\im_ (5509).jpg,v=\frac{y}{x^2+y^2}
+.\cropped\im_ (5510).jpg,v=\int{(r\frac{\partial u}{\partial r})d\theta}-\int{(\frac{1}{r}\frac{\partial u}{\partial\theta})^{*}dr}
+.\cropped\im_ (5511).jpg,\int{(r\frac{-\cos{\theta}}{r^2})d\theta}-\int{(\frac{1}{r}\frac{-\sin{\theta}}{r})dr}
+.\cropped\im_ (5512).jpg,\int{\frac{-1}{r}\cos{\theta}d\theta}
+.\cropped\im_ (5513).jpg,\frac{-\sin{\theta}}{r}=\frac{-r\sin{\theta}}{r^2}=\frac{-y}{x^2+y^2}
+.\cropped\im_ (5514).jpg,"u(x,y)=2\cos{2\ln{2}}"
+.\cropped\im_ (5515).jpg,"v(x,y)=2^xi\sin{(y\ln{2})}+\lambda."
+.\cropped\im_ (5516).jpg,f(z)=2^x+i\lambda.
+.\cropped\im_ (5517).jpg,"v(x,y)=2^x\cos{(y\ln{2})}+\lambda."
+.\cropped\im_ (5518).jpg,f(z)=2^z\sin{(z\ln{2})}+i\lambda.
+.\cropped\im_ (5519).jpg,f(z)=2^z+i\lambda.
+.\cropped\im_ (5520).jpg,"v(x,y)=2^x\sin{(y\ln{2})}+\lambda."
+.\cropped\im_ (5521).jpg,"v(x,y)=2^x\sin{(y\ln{2})}+\lambda."
+.\cropped\im_ (5522).jpg,f(z)=2^z\cos{(z\ln{2})}+u
+.\cropped\im_ (5523).jpg,v=\int{\frac{\partial u}{\partial x}dy}-\int{(\frac{\partial u}{\partial y})^{*}dx}
+.\cropped\im_ (5524).jpg,\int{(2^x\ln{2}\cos{(y\ln{2})})dy}-0
+.\cropped\im_ (5525).jpg,2^x\sin{(y\ln{2})}+c
+.\cropped\im_ (5526).jpg,f(z)=2^z\cos{(0\times\ln{2})}=2^z
+.\cropped\im_ (5527).jpg,f(x+iy) |_{\begin{matrix}x=z\\y=0\\\end{matrix}}=f(z)
+.\cropped\im_ (5528).jpg,"f(z)=f(x,iy)=u(x,y)+iv(x,y)"
+.\cropped\im_ (5529).jpg,"v(x,y)=\ln{(x^2+y^2)}"
+.\cropped\im_ (5530).jpg,\tan{\frac{y}{x}}^{-1}+c
+.\cropped\im_ (5531).jpg,\tan{\frac{x}{y}}^{-1}+c
+.\cropped\im_ (5532).jpg,2\tan{\frac{x}{y}}^{-1}+c
+.\cropped\im_ (5533).jpg,2\tan{\frac{y}{x}}^{-1}+c
+.\cropped\im_ (5534).jpg,2\tan{\frac{x}{y}}^{-1}+c
+.\cropped\im_ (5535).jpg,\int{(\frac{2y}{x^2+y^2})dy}-\int{(\frac{2x}{x^2+y^2})dy}
+.\cropped\im_ (5536).jpg,u=\int{\frac{\partial v}{\partial y}dy}-\int{(\frac{\partial v}{\partial x})^{*}dy}
+.\cropped\im_ (5537).jpg,"v(x,y)=ax^3+by^3"
+.\cropped\im_ (5538).jpg,v=3ax^2+3by^2-3ab(x+y)
+.\cropped\im_ (5539).jpg,u_{xx}+u_{yy}=0
+.\cropped\im_ (5540).jpg,v=c
+.\cropped\im_ (5541).jpg,v=3ax^2+3by^2+3ab(x+y)
+.\cropped\im_ (5542).jpg,u=(x^2-y^2+1)^2-4x^2y^2
+.\cropped\im_ (5543).jpg,"v(x,y)"
+.\cropped\im_ (5544).jpg,"v(0,0)=0"
+.\cropped\im_ (5545).jpg,"v(1,1)"
+.\cropped\im_ (5546).jpg,v=\int{\frac{\partial u}{\partial x}dy}-\int{(\frac{\partial u}{\partial y})^{*}dx}
+.\cropped\im_ (5547).jpg,\int{(4x(x^2+y^2+1)-8xy^2)dy}-0
+.\cropped\im_ (5548).jpg,4x^3y-\frac{4}{3}xy^3+4xy-\frac{8}{3}xy^3+c
+.\cropped\im_ (5549).jpg,"v(1,1)=4-\frac{4}{3}+4-\frac{8}{3}+0=4"
+.\cropped\im_ (5550).jpg,"w=u(x,y)+iv(x,y)"
+.\cropped\im_ (5551).jpg,"u(x,y)=x^3-3xy^2"
+.\cropped\im_ (5552).jpg,w(0)=0
+.\cropped\im_ (5553).jpg,w(z)=(x^3-3xy^2)+i(x^3-3x^2y)
+.\cropped\im_ (5554).jpg,w(z)=(x^3-3xy^2)+i(3x^2y-y^3)
+.\cropped\im_ (5555).jpg,w(z)=(x^3-3xy^2)+i(x^3-3xy^2)
+.\cropped\im_ (5556).jpg,v=\int{\frac{\partial u}{\partial x}dy}-\int{(\frac{\partial u}{\partial y})^{*}dx}
+.\cropped\im_ (5557).jpg,\int{(3x^2-3y^2)dy}-\int{(-6xy)dx}
+.\cropped\im_ (5558).jpg,3x^2y-y^3+c
+.\cropped\im_ (5559).jpg,"u(r,\theta)=\ln{r}+r\cos{\theta}"
+.\cropped\im_ (5560).jpg,v=\int{(r\frac{\partial u}{\partial r})d\theta}-\int{(\frac{1}{r}\frac{\partial u}{\partial\theta})^{*}dr}
+.\cropped\im_ (5561).jpg,\int{r(\frac{1}{r}+\cos{\theta})d\theta}-\int{(\frac{-1}{r}r\sin{\theta})^{*}dr}
+.\cropped\im_ (5562).jpg,\theta+r\sin{\theta}+c
+.\cropped\im_ (5563).jpg,f(z)=u+iv
+.\cropped\im_ (5564).jpg,"u(x,y)"
+.\cropped\im_ (5565).jpg,"v(x,y)"
+.\cropped\im_ (5566).jpg,u=2x(3-y)
+.\cropped\im_ (5567).jpg,f(z)=u+ix
+.\cropped\im_ (5568).jpg,f(z)=iz^2-6z
+.\cropped\im_ (5569).jpg,f(z)=z^2-6iz
+.\cropped\im_ (5570).jpg,f(z)=iz^2+6z
+.\cropped\im_ (5571).jpg,f(z)=z^2+6iz
+.\cropped\im_ (5572).jpg,f'(z)=\frac{\partial u}{\partial x}-i\frac{\partial u}{\partial y}
+.\cropped\im_ (5573).jpg,2(3-y)-i(-2x) |_{\begin{matrix}x=z\\y=0\\\end{matrix}}
+.\cropped\im_ (5574).jpg,\int{f(z)=6z+iz^2}
+.\cropped\im_ (5575).jpg,y+2iz
+.\cropped\im_ (5576).jpg,v=\int{2(3-y)dy}-\int{(-2x)dx}
+.\cropped\im_ (5577).jpg,6y-y^2+x^2
+.\cropped\im_ (5578).jpg,f(z)=6z+iz^2
+.\cropped\im_ (5579).jpg,a_nz^n+a_{n-1}z^{n-1}+\dots+a_0
+.\cropped\im_ (5580).jpg,f(z)=z^4e^{\cos{(z^2+1)}}+\sin{(z^5+1)}^4\cos{\theta}
+.\cropped\im_ (5581).jpg,w=\frac{w^3(1-\cos{z})}{z^2\sin{z}}
+.\cropped\im_ (5582).jpg,"z=2k\pi,z=0"
+.\cropped\im_ (5583).jpg,w=\frac{z}{z}
+.\cropped\im_ (5584).jpg,w=\frac{1}{z^2-1}
+.\cropped\im_ (5585).jpg,z=x+iy
+.\cropped\im_ (5586).jpg,f(z)=y^2-x^2+i(x^2+y^2)
+.\cropped\im_ (5587).jpg,\gamma:\left|z\right|=1
+.\cropped\im_ (5588).jpg,f(z)=2xy+i(x^2-y^2)
+.\cropped\im_ (5589).jpg,f(z)=xy+i(x+y)
+.\cropped\im_ (5590).jpg,f(z)=x^2-y^2+i2xy
+.\cropped\im_ (5591).jpg,f(z)=x+y+ixy
+.\cropped\im_ (5592).jpg,f(z)=x^2-y^2+i2\left|xy\right|
+.\cropped\im_ (5593).jpg,x^2-y^2+i2xy=z^2
+.\cropped\im_ (5594).jpg,x^2-y^2-i2xy
+.\cropped\im_ (5595).jpg,xy<0
+.\cropped\im_ (5596).jpg,xy>0
+.\cropped\im_ (5597).jpg,\left|A\right|=ad-bc
+.\cropped\im_ (5598).jpg,A=\left[\begin{matrix}2&3\\5&8\\\end{matrix}\right]
+.\cropped\im_ (5599).jpg,\left|A\right|=(2\times8)-(3\times5)=1
+.\cropped\im_ (5600).jpg,B=\left[\begin{matrix}4&-7\\2&-3\\\end{matrix}\right]
+.\cropped\im_ (5601).jpg,\left|B\right|=(-3\times4)-(-7\times2)=2
+.\cropped\im_ (5602).jpg,A=\left[\begin{matrix}a&b\\c&d\\\end{matrix}\right]
+.\cropped\im_ (5603).jpg,A^{-1}=\frac{1}{\left|A\right|}\left[\begin{matrix}d&-b\\-c&a\\\end{matrix}\right]
+.\cropped\im_ (5604).jpg,A=\left[\begin{matrix}a&b\\c&d\\\end{matrix}\right]
+.\cropped\im_ (5605).jpg,C^{-1}=\frac{1}{3}\left[\begin{matrix}7&-8\\-4&5\\\end{matrix}\right]
+.\cropped\im_ (5606).jpg,\left|C\right|=(5\times7)-(8\times4)=3
+.\cropped\im_ (5607).jpg,C=\left[\begin{matrix}5&8\\4&7\\\end{matrix}\right]
+.\cropped\im_ (5608).jpg,\left|A\right|\neq0
+.\cropped\im_ (5609).jpg,\left|A^{-1}\right|=\frac{1}{\left|A\right|}
+.\cropped\im_ (5610).jpg,\left|A^n\right|=\left|A\right|^n
+.\cropped\im_ (5611).jpg,\left|A\times B\right|=\left|A\right|\times\left|B\right|
+.\cropped\im_ (5612).jpg,(A\times B)^{-1}=B^{-1}\times A^{-1}
+.\cropped\im_ (5613).jpg,(A+B)^{-1}\neq A^{-1}+B^{-1}
+.\cropped\im_ (5614).jpg,(A^{-1})^{-1}=A
+.\cropped\im_ (5615).jpg,AA^{-1}=A^{-1}A=I
+.\cropped\im_ (5616).jpg,\left\{\begin{matrix}ax+by=c\\a'x+b'y=c'\\\end{matrix}\right.
+.\cropped\im_ (5617).jpg,\left[\begin{matrix}a&b\\a'&b'\\\end{matrix}\right]
+.\cropped\im_ (5618).jpg,\left[\begin{matrix}a&b\\a'&b'\\\end{matrix}\right]\left[\begin{matrix}x\\y\\\end{matrix}\right]=\left[\begin{matrix}c\\c'\\\end{matrix}\right]
+.\cropped\im_ (5619).jpg,X=A^{-1}\times B
+.\cropped\im_ (5620).jpg,X=B
+.\cropped\im_ (5621).jpg,x=\frac{b}{a}=\frac{1}{a}b=a^{-1}b
+.\cropped\im_ (5622).jpg,ax=b
+.\cropped\im_ (5623).jpg,XA=B
+.\cropped\im_ (5624).jpg,XA\times A^{-1}=B\times A^{-1}
+.\cropped\im_ (5625).jpg,X=B\times A^{-1}
+.\cropped\im_ (5626).jpg,X+\left[\begin{matrix}1&2\\3&4\\\end{matrix}\right]=\left[\begin{matrix}5&8\\6&9\\\end{matrix}\right]
+.\cropped\im_ (5627).jpg,\left[\begin{matrix}a&b\\c&d\\\end{matrix}\right]+\left[\begin{matrix}1&2\\3&4\\\end{matrix}\right]=\left[\begin{matrix}5&8\\6&9\\\end{matrix}\right]
+.\cropped\im_ (5628).jpg,"a=4,b=6,c=3,d=5"
+.\cropped\im_ (5629).jpg,X=\left[\begin{matrix}4&6\\3&5\\\end{matrix}\right]
+.\cropped\im_ (5630).jpg,\left|x\right|=(4\times5)-(6\times3)=2
+.\cropped\im_ (5631).jpg,\left[\begin{matrix}2&3\\4&5\\\end{matrix}\right]+2X=\left[\begin{matrix}4&-1\\3&2\\\end{matrix}\right]
+.\cropped\im_ (5632).jpg,X=\left[\begin{matrix}a&b\\c&d\\\end{matrix}\right]
+.\cropped\im_ (5633).jpg,\left[\begin{matrix}2&3\\4&5\\\end{matrix}\right]+2\left[\begin{matrix}a&b\\c&d\\\end{matrix}\right]=\left[\begin{matrix}4&-1\\3&2\\\end{matrix}\right]
+.\cropped\im_ (5634).jpg,\left[\begin{matrix}2+2a&3+2b\\4+2c&5+2d\\\end{matrix}\right]=\left[\begin{matrix}4&-1\\3&2\\\end{matrix}\right]
+.\cropped\im_ (5635).jpg,\left\{\begin{matrix}2+2a=4\Rightarrow a=1\\3+2b=-1\Rightarrow b=-2\\4+2c=3\Rightarrow c=-\frac{1}{2}\\5+2d=2\Rightarrow d=-\frac{3}{2}\\\end{matrix}\right.
+.\cropped\im_ (5636).jpg,X=\left[\begin{matrix}1&-2\\-\frac{1}{2}&-\frac{3}{2}\\\end{matrix}\right]
+.\cropped\im_ (5637).jpg,\left|X\right|=-\frac{3}{2}-(-2\times-\frac{1}{2})=-\frac{3}{2}-1=-\frac{5}{2}
+.\cropped\im_ (5638).jpg,A=\left[\begin{matrix}2&0\\0&2\\\end{matrix}\right]
+.\cropped\im_ (5639).jpg,B=\left[\begin{matrix}1&2\\3&4\\\end{matrix}\right]
+.\cropped\im_ (5640).jpg,\left[\begin{matrix}2&3\\4&5\\\end{matrix}\right]
+.\cropped\im_ (5641).jpg,\left[\begin{matrix}4&8\\12&16\\\end{matrix}\right]
+.\cropped\im_ (5642).jpg,\left[\begin{matrix}8&0\\0&8\\\end{matrix}\right]
+.\cropped\im_ (5643).jpg,A^2+2AB
+.\cropped\im_ (5644).jpg,\left[\begin{matrix}8&8\\12&20\\\end{matrix}\right]
+.\cropped\im_ (5645).jpg,A^2=\left[\begin{matrix}2&0\\0&2\\\end{matrix}\right]\left[\begin{matrix}2&0\\0&2\\\end{matrix}\right]=\left[\begin{matrix}4&0\\0&4\\\end{matrix}\right]=4I_{2\times2}
+.\cropped\im_ (5646).jpg,A^2=(2I)^2=4I^2=4I
+.\cropped\im_ (5647).jpg,A=2\left[\begin{matrix}1&0\\0&1\\\end{matrix}\right]=2I
+.\cropped\im_ (5648).jpg,2AB=2\left[\begin{matrix}2&0\\0&2\\\end{matrix}\right]\left[\begin{matrix}1&2\\3&4\\\end{matrix}\right]=2\left[\begin{matrix}2&4\\6&8\\\end{matrix}\right]=\left[\begin{matrix}4&8\\12&16\\\end{matrix}\right]
+.\cropped\im_ (5649).jpg,2AB=2(2I)B=4I\times B=4B
+.\cropped\im_ (5650).jpg,A=2I
+.\cropped\im_ (5651).jpg,A^2+2AB=\left[\begin{matrix}4&0\\0&4\\\end{matrix}\right]+\left[\begin{matrix}4&8\\12&16\\\end{matrix}\right]=\left[\begin{matrix}8&8\\12&20\\\end{matrix}\right]
+.\cropped\im_ (5652).jpg,A=\left[\begin{matrix}-2&1\\5&4\\\end{matrix}\right]
+.\cropped\im_ (5653).jpg,A^2=\alpha A+\beta I
+.\cropped\im_ (5654).jpg,"(\alpha,\beta)"
+.\cropped\im_ (5655).jpg,"(4,13)"
+.\cropped\im_ (5656).jpg,"(4,11)"
+.\cropped\im_ (5657).jpg,"(2,13)"
+.\cropped\im_ (5658).jpg,"(2,11)"
+.\cropped\im_ (5659).jpg,\alpha=a+d=-2+4=2
+.\cropped\im_ (5660).jpg,\beta=-\left|A\right|=-(-13)=13
+.\cropped\im_ (5661).jpg,A^2=A\times A=\left[\begin{matrix}-2&1\\5&4\\\end{matrix}\right]\left[\begin{matrix}-2&1\\5&4\\\end{matrix}\right]=\left[\begin{matrix}9&2\\10&21\\\end{matrix}\right]
+.\cropped\im_ (5662).jpg,\alpha A+\beta I=\left[\begin{matrix}-2\alpha&\alpha\\5\alpha&4\alpha\\\end{matrix}\right]+\left[\begin{matrix}\beta&0\\0&\beta\\\end{matrix}\right]=\left[\begin{matrix}-2\alpha+\beta&\alpha\\5\alpha&4\alpha+\beta\\\end{matrix}\right]
+.\cropped\im_ (5663).jpg,"(\alpha,\beta)=(2,13)"
+.\cropped\im_ (5664).jpg,\beta=13
+.\cropped\im_ (5665).jpg,9=-4+\beta
+.\cropped\im_ (5666).jpg,"\alpha=2,9=-2(2)+\beta"
+.\cropped\im_ (5667).jpg,\left[\begin{matrix}9&2\\10&21\\\end{matrix}\right]=\left[\begin{matrix}-2\alpha+\beta&\alpha\\5\alpha&4\alpha+\beta\\\end{matrix}\right]
+.\cropped\im_ (5668).jpg,ax+by+cz=d
+.\cropped\im_ (5669).jpg,\left\{\begin{matrix}ax+by=c\\a'x+b'y=c'\\\end{matrix}\right.
+.\cropped\im_ (5670).jpg,\frac{a}{a'}\neq\frac{b}{b'}
+.\cropped\im_ (5671).jpg,\frac{a}{a'}=\frac{b}{b'}\neq\frac{c}{c'}
+.\cropped\im_ (5672).jpg,\frac{a}{a'}=\frac{b}{b'}=\frac{c}{c'}
+.\cropped\im_ (5673).jpg,\left\{\begin{matrix}ax+by=c\\a'x+b'y=c'\\a''x+b''y=c''\\\end{matrix}\right.
+.\cropped\im_ (5674).jpg,\left\{\begin{matrix}ax_1+bx_2=c\\a'x_1+b'x_2=c'\\a''x_1+b''x_2=c''\\\end{matrix}\right.
+.\cropped\im_ (5675).jpg,\left\{\begin{matrix}8x_1-3x_2=7\\3x_1-2x_2=0\\10x_1-2x_2=14\\\end{matrix}\right.
+.\cropped\im_ (5676).jpg,\left\{\begin{matrix}-3x_1+2x_2=0\\10x_1-2x_2=14\\\end{matrix}\right.
+.\cropped\im_ (5677).jpg,x_2=3
+.\cropped\im_ (5678).jpg,x_1=2
+.\cropped\im_ (5679).jpg,7x_1=14
+.\cropped\im_ (5680).jpg,\left\{\begin{matrix}ax_1+bx_2+cx_3=d\\a'x_1+b'x_2+c'x_3=d'\\\end{matrix}\right.
+.\cropped\im_ (5681).jpg,8(2)-3(3)=7
+.\cropped\im_ (5682).jpg,\left\{\begin{matrix}ax+by+cz=d\\a'x+b'y+c'z=d'\\\end{matrix}\right.
+.\cropped\im_ (5683).jpg,\frac{a}{a'}=\frac{b}{b'}=\frac{c}{c'}\neq\frac{d}{d'}
+.\cropped\im_ (5684).jpg,\frac{a}{a'}=\frac{b}{b'}=\frac{c}{c'}=\frac{d}{d'}
+.\cropped\im_ (5685).jpg,\left\{\begin{matrix}x_1+2x_2-3x_3=-4\\2x_1+x_2-3x_3=4\\\end{matrix}\right.
+.\cropped\im_ (5686).jpg,\frac{1}{2}\neq\frac{2}{1}\neq\frac{-3}{-3}\neq\frac{-4}{4}
+.\cropped\im_ (5687).jpg,\left\{\begin{matrix}ax+by+cz=d\\a'x+b'y+c'z=d'\\\end{matrix}\right.
+.\cropped\im_ (5688).jpg,\frac{a}{a'}=\frac{b}{b'}=\frac{c}{c'}\neq\frac{d}{d'}
+.\cropped\im_ (5689).jpg,\left\{\begin{matrix}a_1x+b_1y+c_1z=0\\a_2x+b_2y+c_2z=0\\a_3x+b_3y+c_3z=0\\\end{matrix}\right.
+.\cropped\im_ (5690).jpg,y+2x=0
+.\cropped\im_ (5691).jpg,2y+ax+5=0
+.\cropped\im_ (5692).jpg,y+3x=a
+.\cropped\im_ (5693).jpg,-4x+ax=-5
+.\cropped\im_ (5694).jpg,2(-2x)+ax=-5
+.\cropped\im_ (5695).jpg,x=a
+.\cropped\im_ (5696).jpg,-2x+3x=a
+.\cropped\im_ (5697).jpg,\left\{\begin{matrix}2y+ax+5=0\\y+3x=a\\\end{matrix}\right.
+.\cropped\im_ (5698).jpg,-4x+ax=-5
+.\cropped\im_ (5699).jpg,-4a+a^2=-5
+.\cropped\im_ (5700).jpg,a^2-4a+5=0
+.\cropped\im_ (5701).jpg,\Delta=16-20<0
+.\cropped\im_ (5702).jpg,\left\{\begin{matrix}x_1+2x_2+3x_3=14\\x_1+x_2+x_3=6\\-3x_1+2x_2+x_3=4\\\end{matrix}\right.
+.\cropped\im_ (5703).jpg,\left\{\begin{matrix}x+2y+3z=14\\x+y+z=6\\-3x+2y+z=4\\\end{matrix}\right.
+.\cropped\im_ (5704).jpg,x_1=x
+.\cropped\im_ (5705).jpg,x_2=y
+.\cropped\im_ (5706).jpg,x_3=z
+.\cropped\im_ (5707).jpg,z=6-x-y
+.\cropped\im_ (5708).jpg,\left\{\begin{matrix}x+2y+3(6-x-y)=14\\-3x+2y+6-x-y=4\\\end{matrix}\right.
+.\cropped\im_ (5709).jpg,\left\{\begin{matrix}x+2y+18-3x-3y=14\\-4x+y=-2\\\end{matrix}\right.
+.\cropped\im_ (5710).jpg,\left\{\begin{matrix}-2x-y=-4\\-4x+y=-2\\\end{matrix}\right.
+.\cropped\im_ (5711).jpg,x=1
+.\cropped\im_ (5712).jpg,-6x=-6
+.\cropped\im_ (5713).jpg,z=6-1-2=3
+.\cropped\im_ (5714).jpg,y=2
+.\cropped\im_ (5715).jpg,y=-2+4(1)=2
+.\cropped\im_ (5716).jpg,x=1
+.\cropped\im_ (5717).jpg,\left\{\begin{matrix}3x_1+4x_2-x_3=8\\6x_1+8x_2-2x_3=3\\\end{matrix}\right.
+.\cropped\im_ (5718).jpg,\frac{3}{6}=\frac{4}{8}=\frac{-1}{-2}\neq\frac{8}{3}
+.\cropped\im_ (5719).jpg,y+2x=a
+.\cropped\im_ (5720).jpg,2y+(a-1)x+2=0
+.\cropped\im_ (5721).jpg,y+2x=a
+.\cropped\im_ (5722).jpg,2y+(a-1)x+2=0
+.\cropped\im_ (5723).jpg,\left\{\begin{matrix}-x+2x=a\rightarrow x=a\\-2x+(a-1)x+2=0\\\end{matrix}\right.
+.\cropped\im_ (5724).jpg,a^2-3a+2=0
+.\cropped\im_ (5725).jpg,a=1
+.\cropped\im_ (5726).jpg,a=2
+.\cropped\im_ (5727).jpg,a^2-3a+2=0
+.\cropped\im_ (5728).jpg,\frac{2x-y}{2}=\frac{3x+2y}{1}=\frac{5x+y}{3}=\frac{\frac{16}{3}x-\frac{1}{3}y}{4}
+.\cropped\im_ (5729).jpg,\left\{\begin{matrix}4x+5y=0\\4x+5y=0\\4x+5y=0\\\end{matrix}\right.
+.\cropped\im_ (5730).jpg,\left\{\begin{matrix}2x-y=6x+4y\\9x+6y=5x+y\\20x+4y=16x-y\\\end{matrix}\right.
+.\cropped\im_ (5731).jpg,\frac{y_2-y_1}{x_2-x_1}
+.\cropped\im_ (5732).jpg,"A(x_1,y_1)"
+.\cropped\im_ (5733).jpg,"B(x_2,y_2)"
+.\cropped\im_ (5734).jpg,"A(x_1,y_1)"
+.\cropped\im_ (5735).jpg,y-y_1=m(x-x_1)
+.\cropped\im_ (5736).jpg,y=mx+h
+.\cropped\im_ (5737).jpg,ax+by+c=0
+.\cropped\im_ (5738).jpg,-\frac{a}{b}
+.\cropped\im_ (5739).jpg,d=AH=\frac{\left|ax_1+by_1+c\right|}{\sqrt{a^2+b^2}}
+.\cropped\im_ (5740).jpg,ax+by+c=0
+.\cropped\im_ (5741).jpg,"A(x_1,y_1)"
+.\cropped\im_ (5742).jpg,\sqrt{a^2+b^2}
+.\cropped\im_ (5743).jpg,3x-4y=1
+.\cropped\im_ (5744).jpg,"A(-1,2)"
+.\cropped\im_ (5745).jpg,3x-4y-1=0
+.\cropped\im_ (5746).jpg,d=\frac{\left|3(-1)+(-4)(2)+(-1)\right|}{\sqrt{(3)^2+(-4)^2}}=\frac{\left|-12\right|}{\sqrt{9+16}}=\frac{12}{\sqrt{25}}=\frac{12}{5}
+.\cropped\im_ (5747).jpg,M |^{\frac{x_A+x_B}{2}}_{\frac{y_A+y_B}{2}}
+.\cropped\im_ (5748).jpg,AB=\sqrt{(x_A-x_B)^2+(y_A-y_B)^2}
+.\cropped\im_ (5749).jpg,OA=\sqrt{x_A^2+y_A^2}
+.\cropped\im_ (5750).jpg,d=\frac{\left|c-c'\right|}{\sqrt{a^2+b^2}}
+.\cropped\im_ (5751).jpg,ax+by+c=0
+.\cropped\im_ (5752).jpg,ax+by+c'=0
+.\cropped\im_ (5753).jpg,\hat{\alpha}+\hat{\beta}=90\degree.
+.\cropped\im_ (5754).jpg,\hat{\alpha}+\hat{\beta}=180\degree.
+.\cropped\im_ (5755).jpg,"\hat{M}=\hat{N},\hat{\alpha}=\hat{\beta}"
+.\cropped\im_ (5756).jpg,\left\{\begin{matrix}\hat{1}=\hat{2}=\hat{3}=\hat{4}\\\hat{5}=\hat{6}=\hat{7}=\hat{8}\\\end{matrix}\right.
+.\cropped\im_ (5757).jpg,d||d'
+.\cropped\im_ (5758).jpg,\hat{A}+\hat{B}+\hat{C}=180\degree
+.\cropped\im_ (5759).jpg,\hat{C}_2=\hat{A}+\hat{B}
+.\cropped\im_ (5760).jpg,MB=MC
+.\cropped\im_ (5761).jpg,\left\{\begin{matrix}AG=\frac{2}{3}AM\\GM=\frac{1}{3}AM\\\end{matrix}\right.
+.\cropped\im_ (5762).jpg,AG=2GM
+.\cropped\im_ (5763).jpg,\triangle ABM=\triangle AMC
+.\cropped\im_ (5764).jpg,MH=MH'
+.\cropped\im_ (5765).jpg,n\times(n-1)\times(n-2)\times\dots\times2\times1=n!
+.\cropped\im_ (5766).jpg,2!\times5!\times4!
+.\cropped\im_ (5767).jpg,7!\times3!
+.\cropped\im_ (5768).jpg,\frac{7!}{2\times2}
+.\cropped\im_ (5769).jpg,\frac{7!}{2}
+.\cropped\im_ (5770).jpg,9\times10\times5=450
+.\cropped\im_ (5771).jpg,8\times8\times5=320
+.\cropped\im_ (5772).jpg,9\times10\times5=450
+.\cropped\im_ (5773).jpg,9\times8\times1=72
+.\cropped\im_ (5774).jpg,8\times8\times4=256
+.\cropped\im_ (5775).jpg,256+72=328
+.\cropped\im_ (5776).jpg,"c(n,r)=\left(\begin{matrix}n\\r\\\end{matrix}\right)=\frac{n!}{(n-r)!r!}"
+.\cropped\im_ (5777).jpg,"(n,r)=\frac{n!}{(n-r)!}"
+.\cropped\im_ (5778).jpg,\frac{1}{12}\times\frac{1}{11}\times\frac{1}{10}\times\frac{1}{9}\times\frac{1}{8}
+.\cropped\im_ (5779).jpg,\left(\begin{matrix}12\\5\\\end{matrix}\right)\times5!
+.\cropped\im_ (5780).jpg,\left(\begin{matrix}n\\0\\\end{matrix}\right)=\left(\begin{matrix}n\\n\\\end{matrix}\right)=1
+.\cropped\im_ (5781).jpg,\left(\begin{matrix}n\\1\\\end{matrix}\right)=\left(\begin{matrix}n\\n-1\\\end{matrix}\right)=n
+.\cropped\im_ (5782).jpg,\left(\begin{matrix}n\\r\\\end{matrix}\right)=\left(\begin{matrix}n\\r'\\\end{matrix}\right)
+.\cropped\im_ (5783).jpg,n=r+r'
+.\cropped\im_ (5784).jpg,\left(\begin{matrix}10\\3\\\end{matrix}\right)=\left(\begin{matrix}10\\7\\\end{matrix}\right)
+.\cropped\im_ (5785).jpg,\left(\begin{matrix}n\\0\\\end{matrix}\right)+\left(\begin{matrix}n\\1\\\end{matrix}\right)+\left(\begin{matrix}n\\2\\\end{matrix}\right)+\dots+\left(\begin{matrix}n\\n\\\end{matrix}\right)=2^n
+.\cropped\im_ (5786).jpg,\left(\begin{matrix}n\\r\\\end{matrix}\right)+\left(\begin{matrix}n\\r-1\\\end{matrix}\right)=\left(\begin{matrix}n+1\\r\\\end{matrix}\right)
+.\cropped\im_ (5787).jpg,\left(\begin{matrix}10\\4\\\end{matrix}\right)+\left(\begin{matrix}10\\3\\\end{matrix}\right)=\left(\begin{matrix}11\\4\\\end{matrix}\right)
+.\cropped\im_ (5788).jpg,\left(\begin{matrix}n-k\\r-k\\\end{matrix}\right)
+.\cropped\im_ (5789).jpg,\left(\begin{matrix}n-k\\r\\\end{matrix}\right)
+.\cropped\im_ (5790).jpg,2^{n-k}
+.\cropped\im_ (5791).jpg,2^{n-k}
+.\cropped\im_ (5792).jpg,\left(\begin{matrix}n\\r\\\end{matrix}\right)
+.\cropped\im_ (5793).jpg,2^n
+.\cropped\im_ (5794).jpg,2^{9-4}=2^5
+.\cropped\im_ (5795).jpg,2^9
+.\cropped\im_ (5796).jpg,\left(\begin{matrix}9\\4\\\end{matrix}\right)
+.\cropped\im_ (5797).jpg,\left(\begin{matrix}9-1\\4-1\\\end{matrix}\right)=\left(\begin{matrix}8\\3\\\end{matrix}\right)
+.\cropped\im_ (5798).jpg,8!\times\left(\begin{matrix}9\\4\\\end{matrix}\right)\times4!
+.\cropped\im_ (5799).jpg,\frac{8!}{2!\times2!}
+.\cropped\im_ (5800).jpg,\frac{6!}{2!}
+.\cropped\im_ (5801).jpg,P(A)=\frac{n(A)}{n(S)}
+.\cropped\im_ (5802).jpg,1-\frac{\left(\begin{matrix}n\\0\\\end{matrix}\right)}{2^n}>\frac{99}{100}
+.\cropped\im_ (5803).jpg,\frac{-1}{2^n}>\frac{99}{100}-1
+.\cropped\im_ (5804).jpg,\frac{1}{2^n}<\frac{1}{100}
+.\cropped\im_ (5805).jpg,2^n>100
+.\cropped\im_ (5806).jpg,P=\frac{\left(\begin{matrix}5\\4\\\end{matrix}\right)\left(\begin{matrix}2\\1\\\end{matrix}\right)\left(\begin{matrix}2\\1\\\end{matrix}\right)\left(\begin{matrix}2\\1\\\end{matrix}\right)\left(\begin{matrix}2\\1\\\end{matrix}\right)}{\left(\begin{matrix}10\\4\\\end{matrix}\right)}
+.\cropped\im_ (5807).jpg,P=\frac{9}{6\times6}=\frac{1}{4}
+.\cropped\im_ (5808).jpg,P=\frac{\left(\begin{matrix}n\\k\\\end{matrix}\right)}{2^n}
+.\cropped\im_ (5809).jpg,0<=P(A)<=1
+.\cropped\im_ (5810).jpg,P(A)=0
+.\cropped\im_ (5811).jpg,P(A)=1
+.\cropped\im_ (5812).jpg,A-B=A\cap B'
+.\cropped\im_ (5813).jpg,P(A')=1-P(A)
+.\cropped\im_ (5814).jpg,P(A\cup B)=P(A)+P(B)-P(A\cap B)
+.\cropped\im_ (5815).jpg,P(A-B)=P(A)-P(A\cap B)
+.\cropped\im_ (5816).jpg,A\cap B=\emptyset
+.\cropped\im_ (5817).jpg,P(A\cup B)=P(A)+P(B)
+.\cropped\im_ (5818).jpg,A\cup B=\emptyset
+.\cropped\im_ (5819).jpg,0/8-0/7\times0/8=0/24
+.\cropped\im_ (5820).jpg,P(B'-A')=P(B')-P(A'\cap B')
+.\cropped\im_ (5821).jpg,P(A)=0/3
+.\cropped\im_ (5822).jpg,P(B)=0/2
+.\cropped\im_ (5823).jpg,P(B'-A')
+.\cropped\im_ (5824).jpg,\frac{n(A)}{n(S)}=\frac{1}{11}
+.\cropped\im_ (5825).jpg,P(A(B))=\frac{P(A\cap B)}{P(B)}
+.\cropped\im_ (5826).jpg,P=\frac{800}{1200}\times\frac{3}{10}+\frac{400}{1200}\times\frac{6}{10}=\frac{9}{10}=\frac{2}{5}
+.\cropped\im_ (5827).jpg,\frac{1}{8}+\frac{3}{8}+\frac{3}{8}+\frac{1}{8}=1
+.\cropped\im_ (5828).jpg,P=\frac{\left(\begin{matrix}n\\x\\\end{matrix}\right)}{2^n}
+.\cropped\im_ (5829).jpg,P(x)=\left(\begin{matrix}n\\x\\\end{matrix}\right)\times P^x\times (1-P)^{n-x}
+.\cropped\im_ (5830).jpg,P(x)=1-P(x')
+.\cropped\im_ (5831).jpg,P(x')=1-[\left(\begin{matrix}5\\0\\\end{matrix}\right)(0/8)^{0}(0/2)^{5}+\left(\begin{matrix}5\\1\\\end{matrix}\right)(0/8)^{1}(0/2)^{4}]=0/99328
+.\cropped\im_ (5832).jpg,x_1=1
+.\cropped\im_ (5833).jpg,x_2=\frac{c}{a}
+.\cropped\im_ (5834).jpg,a+b+c=0
+.\cropped\im_ (5835).jpg,x_1=-1
+.\cropped\im_ (5836).jpg,x_2=\frac{-c}{a}
+.\cropped\im_ (5837).jpg,a+c=b
+.\cropped\im_ (5838).jpg,ax^2+bx+c
+.\cropped\im_ (5839).jpg,4x^2+3x-7<=0
+.\cropped\im_ (5840).jpg,\frac{-7}{4}<=x<=1
+.\cropped\im_ (5841).jpg,x_2=\frac{-7}{4}
+.\cropped\im_ (5842).jpg,x_1=1
+.\cropped\im_ (5843).jpg,\frac{2x-1}{x+3}-1>=0
+.\cropped\im_ (5844).jpg,\frac{2x-1}{x+3}-1>=1
+.\cropped\im_ (5845).jpg,x^2-4=0
+.\cropped\im_ (5846).jpg,x=\mp2
+.\cropped\im_ (5847).jpg,x-3=0\rightarrow x=3
+.\cropped\im_ (5848).jpg,(x-3)=0\rightarrow x=3
+.\cropped\im_ (5849).jpg,(x-3)=0\rightarrow x=3
+.\cropped\im_ (5850).jpg,\frac{(x^3-1)^{17}(x^2-4)}{(x^2+3x+2)^{3}(x^2+1)}>=0
+.\cropped\im_ (5851).jpg,\frac{x^5\times x^2}{x^6\times x^2}=x^{45}
+.\cropped\im_ (5852).jpg,-1<x<=1
+.\cropped\im_ (5853).jpg,x>=2
+.\cropped\im_ (5854).jpg,ax^2+bx+c>=0
+.\cropped\im_ (5855).jpg,ax^2+bx+c>0
+.\cropped\im_ (5856).jpg,ax^2+bx+c<=0
+.\cropped\im_ (5857).jpg,ax^2+bx+c<0
+.\cropped\im_ (5858).jpg,\left\{\begin{matrix}y-3=4\\y-3=-4\\\end{matrix}\right.
+.\cropped\im_ (5859).jpg,\left|x-2\right|+\left|y-3\right|=4
+.\cropped\im_ (5860).jpg,\left\{\begin{matrix}y=7\\y=-1\\\end{matrix}\right.
+.\cropped\im_ (5861).jpg,x+2=0\rightarrow x=-2
+.\cropped\im_ (5862).jpg,y-1=0\rightarrow y=1
+.\cropped\im_ (5863).jpg,\left|x-2\right|+\left|y-1\right|^2=0
+.\cropped\im_ (5864).jpg,\left|x-2\right|+\left|y-1\right|+3=0
+.\cropped\im_ (5865).jpg,D=\left\{\begin{matrix}A>0\\B>0\\B\neq1\\\end{matrix}\right.
+.\cropped\im_ (5866).jpg,y=\log_{B}{A}
+.\cropped\im_ (5867).jpg,F(x)=\tan{x}
+.\cropped\im_ (5868).jpg,F(x)=\cot{x}
+.\cropped\im_ (5869).jpg,D=R-(k\pi+\frac{\pi}{2})
+.\cropped\im_ (5870).jpg,D=R-k\pi
+.\cropped\im_ (5871).jpg,\frac{\cos{x}}{\sin{x}}
+.\cropped\im_ (5872).jpg,\frac{\sin{x}}{\cos{x}}
+.\cropped\im_ (5873).jpg,F(x)=\sqrt{2x-x^2}
+.\cropped\im_ (5874).jpg,F(3-x)
+.\cropped\im_ (5875).jpg,F(3-x)=\sqrt{2(3-x)-(3-x)^2}
+.\cropped\im_ (5876).jpg,\sqrt{-x^2+4x-3}
+.\cropped\im_ (5877).jpg,-x^2+4x-3>=0
+.\cropped\im_ (5878).jpg,"[0,3]"
+.\cropped\im_ (5879).jpg,"[1,3]"
+.\cropped\im_ (5880).jpg,"[0,2]"
+.\cropped\im_ (5881).jpg,"[1,2]"
+.\cropped\im_ (5882).jpg,F(x)=\log{x^2}
+.\cropped\im_ (5883).jpg,x^2>0\rightarrow D_f=R-\left{0\right}
+.\cropped\im_ (5884).jpg,g(x)=2\log{x}
+.\cropped\im_ (5885).jpg,"x>0\rightarrow D_g=(0,+\infty)"
+.\cropped\im_ (5886).jpg,D_{f+g}=D_f\cap D_g
+.\cropped\im_ (5887).jpg,(f+g)x=f(x)+g(x)
+.\cropped\im_ (5888).jpg,(f-g)x
+.\cropped\im_ (5889).jpg,(f\times g)x
+.\cropped\im_ (5890).jpg,D_{f-g}
+.\cropped\im_ (5891).jpg,(f\times g)x
+.\cropped\im_ (5892).jpg,(\frac{f}{g})x=\frac{f(x)}{g(x)}
+.\cropped\im_ (5893).jpg,D\frac{f}{g}=D_f\cap D_g-\left{x|g(x)=0\right}
+.\cropped\im_ (5894).jpg,(Fog)x=F(g(x))
+.\cropped\im_ (5895).jpg,"D_{Fg}=\left{x\in D_g,g(x)\in D_f\right}"
+.\cropped\im_ (5896).jpg,(gof)x
+.\cropped\im_ (5897).jpg,f(x)=x^2-x-2
+.\cropped\im_ (5898).jpg,f(g(x))=x^2+x-2
+.\cropped\im_ (5899).jpg,(F+g)x
+.\cropped\im_ (5900).jpg,x^2-1
+.\cropped\im_ (5901).jpg,x^2+1
+.\cropped\im_ (5902).jpg,x^2-2x
+.\cropped\im_ (5903).jpg,x^2+2x
+.\cropped\im_ (5904).jpg,F(g(x))=g(x^2)-g(x)-2=x^2+x-2
+.\cropped\im_ (5905).jpg,(g(x)-\frac{1}{2})^2-\frac{1}{4}=(x+\frac{1}{2})^2-\frac{1}{4}\rightarrow g(x)-\frac{1}{2}=\mp(x+\frac{1}{2})
+.\cropped\im_ (5906).jpg,(F+g)x=x^2-1
+.\cropped\im_ (5907).jpg,(F+g)x=x^2-2x-2
+.\cropped\im_ (5908).jpg,g(x)=x+1
+.\cropped\im_ (5909).jpg,g(x)=-x
+.\cropped\im_ (5910).jpg,y=\sqrt{x}
+.\cropped\im_ (5911).jpg,y=\sqrt[3]{x}
+.\cropped\im_ (5912).jpg,y=x^3
+.\cropped\im_ (5913).jpg,y=x^2
+.\cropped\im_ (5914).jpg,y=\left|x\right|
+.\cropped\im_ (5915).jpg,y=\sqrt[3]{x^2}
+.\cropped\im_ (5916).jpg,"(a,b)\in f"
+.\cropped\im_ (5917).jpg,"(b,a)\in f^{-1}"
+.\cropped\im_ (5918).jpg,y=f(x+a)
+.\cropped\im_ (5919).jpg,y=f(x-a)
+.\cropped\im_ (5920).jpg,y=f(x+b)
+.\cropped\im_ (5921).jpg,y=f(x-b)
+.\cropped\im_ (5922).jpg,y=-f(x)
+.\cropped\im_ (5923).jpg,y=f(-x)
+.\cropped\im_ (5924).jpg,a>0
+.\cropped\im_ (5925).jpg,a>0
+.\cropped\im_ (5926).jpg,b>0
+.\cropped\im_ (5927).jpg,b>0
+.\cropped\im_ (5928).jpg,y=\left|F(x)\right|
+.\cropped\im_ (5929).jpg,y=f(\left|x\right|)
+.\cropped\im_ (5930).jpg,\left|y\right|=f(x)
+.\cropped\im_ (5931).jpg,S=x_1+x_2=\frac{-b}{a}
+.\cropped\im_ (5932).jpg,P=x_1\times x_2=\frac{c}{a}
+.\cropped\im_ (5933).jpg,D=\left|x_1-x_2\right|=\frac{\sqrt{\Delta}}{\left|a\right|}
+.\cropped\im_ (5934).jpg,\frac{-b}{a}>0
+.\cropped\im_ (5935).jpg,\frac{-b}{a}<0
+.\cropped\im_ (5936).jpg,\frac{-b}{a}>0
+.\cropped\im_ (5937).jpg,-\frac{b}{a}<0
+.\cropped\im_ (5938).jpg,\frac{c}{a}>0
+.\cropped\im_ (5939).jpg,\frac{c}{a}<0
+.\cropped\im_ (5940).jpg,m^2+4m+4-4(1)(m+5)>0
+.\cropped\im_ (5941).jpg,\Delta>0
+.\cropped\im_ (5942).jpg,P>0
+.\cropped\im_ (5943).jpg,m>-5
+.\cropped\im_ (5944).jpg,\frac{c}{a}=\frac{m+5}{1}>0
+.\cropped\im_ (5945).jpg,m^2+4m-4-4m-20>0
+.\cropped\im_ (5946).jpg,x^4-(x+2)x^2+m+5=0
+.\cropped\im_ (5947).jpg,m>4
+.\cropped\im_ (5948).jpg,m<-4
+.\cropped\im_ (5949).jpg,m^2-16>0
+.\cropped\im_ (5950).jpg,M>-2
+.\cropped\im_ (5951).jpg,S>0\Rightarrow\frac{-b}{a}=\frac{-(m+2)}{1}>0
+.\cropped\im_ (5952).jpg,m>4
+.\cropped\im_ (5953).jpg,a>0
+.\cropped\im_ (5954).jpg,a<0
+.\cropped\im_ (5955).jpg,y=ax^2+bx+c
+.\cropped\im_ (5956).jpg,x=\frac{-b}{2a}
+.\cropped\im_ (5957).jpg,"\max(\frac{-b}{2a},\frac{-\Delta}{4a})"
+.\cropped\im_ (5958).jpg,"\min(\frac{-b}{2a},\frac{-\Delta}{4a})"
+.\cropped\im_ (5959).jpg,a<0
+.\cropped\im_ (5960).jpg,y=ax^2-(a+2)x
+.\cropped\im_ (5961).jpg,P=0\Rightarrow\frac{c}{a}=0\Rightarrow\frac{0}{a}=0
+.\cropped\im_ (5962).jpg,S>0\Rightarrow\frac{-b}{a}>0\Rightarrow\frac{c+2}{a}>0
+.\cropped\im_ (5963).jpg,a+2<0\Rightarrow a<-2
+.\cropped\im_ (5964).jpg,a<-2
+.\cropped\im_ (5965).jpg,x_1^2+x_2^2=s^2-2p
+.\cropped\im_ (5966).jpg,x_1^3+x_2^3=s^3-3ps
+.\cropped\im_ (5967).jpg,\frac{x_1}{x_2}+\frac{x_2}{x_1}=\frac{s^2-2p}{p}
+.\cropped\im_ (5968).jpg,x^2+x-1=0
+.\cropped\im_ (5969).jpg,5x_1^2+3x_2^2
+.\cropped\im_ (5970).jpg,D=\left|x_1-x_2\right|=\frac{\sqrt{\Delta}}{\left|a\right|}=\sqrt{5}
+.\cropped\im_ (5971).jpg,P=-1
+.\cropped\im_ (5972).jpg,s=-1
+.\cropped\im_ (5973).jpg,x_2>x_1
+.\cropped\im_ (5974).jpg,x_2>x_1
+.\cropped\im_ (5975).jpg,x_2-x_1=-\sqrt{5}
+.\cropped\im_ (5976).jpg,5x_1^2+3x_2^2=4x_1^2+x_1^2+4x_2^2-x_2^2
+.\cropped\im_ (5977).jpg,4(x_1^2+x_2^2)+(x_1-x_2)(x_1+x_2)
+.\cropped\im_ (5978).jpg,4(s^2-2p)+D\times S
+.\cropped\im_ (5979).jpg,4(1+2)-\sqrt{5}(-1)=12+\sqrt{5}
+.\cropped\im_ (5980).jpg,mx^2+3x+x^2=2
+.\cropped\im_ (5981).jpg,\left\{\begin{matrix}m=-1\\m=2\\\end{matrix}\right.
+.\cropped\im_ (5982).jpg,m^2-m-2=0
+.\cropped\im_ (5983).jpg,\frac{m^2-2}{x}=1
+.\cropped\im_ (5984).jpg,p=\frac{c}{a}=1
+.\cropped\im_ (5985).jpg,\frac{-b}{a}=0
+.\cropped\im_ (5986).jpg,\frac{c}{a}=1
+.\cropped\im_ (5987).jpg,\frac{c}{a}=-1
+.\cropped\im_ (5988).jpg,x^2-Sx+P=0
+.\cropped\im_ (5989).jpg,a-\sqrt{b}
+.\cropped\im_ (5990).jpg,a+\sqrt{b}
+.\cropped\im_ (5991).jpg,y=x^2\rightarrow x=\sqrt{y}
+.\cropped\im_ (5992).jpg,(\sqrt{y})^2-3\sqrt{y}-2=0
+.\cropped\im_ (5993).jpg,y-3\sqrt{y}-2=0
+.\cropped\im_ (5994).jpg,y-2=3\sqrt{y}
+.\cropped\im_ (5995).jpg,y^2-4y+4=9y
+.\cropped\im_ (5996).jpg,y^2-13y+4=0
+.\cropped\im_ (5997).jpg,\left|x\right|>=0
+.\cropped\im_ (5998).jpg,\left|xy\right|=\left|x\right|\left|y\right|
+.\cropped\im_ (5999).jpg,\left|\frac{x}{y}\right|=\frac{\left|x\right|}{\left|y\right|}y\neq0
+.\cropped\im_ (6000).jpg,\left|-x\right|=\left|x\right|
+.\cropped\im_ (6001).jpg,\sqrt[2n]{x^{2n}}=\left|x\right|
+.\cropped\im_ (6002).jpg,\left|x\right|=a\rightarrow x=\mp a
+.\cropped\im_ (6003).jpg,\left|x\right|<a\rightarrow -a<x<a
+.\cropped\im_ (6004).jpg,\left|x\right|>a\rightarrow x>a x<-a
+.\cropped\im_ (6005).jpg,F(x)=\mp g(x)
+.\cropped\im_ (6006).jpg,\left|f(x)\right|=\left|g(x)\right|
+.\cropped\im_ (6007).jpg,\left|x+y\right|<=\left|x\right|+\left|y\right|
+.\cropped\im_ (6008).jpg,x-\left|x\right|=1
+.\cropped\im_ (6009).jpg,x-\left|x\right|=-1
+.\cropped\im_ (6010).jpg,\left|x-\left|x\right|\right|=1
+.\cropped\im_ (6011).jpg,x-x=1
+.\cropped\im_ (6012).jpg,x-(-x)=1\rightarrow 2x=1\rightarrow x=\frac{1}{2}
+.\cropped\im_ (6013).jpg,x-x=-1
+.\cropped\im_ (6014).jpg,x-(-x)=-1\rightarrow 2x=-1\rightarrow x=-\frac{1}{2}
+.\cropped\im_ (6015).jpg,y=\left|x^2-3x+2\right|
+.\cropped\im_ (6016).jpg,"a>0\rightarrow \min(\frac{3}{2},-\frac{1}{4})"
+.\cropped\im_ (6017).jpg,y=\left|f(x)\right|
+.\cropped\im_ (6018).jpg,y=\left|x-a\right|+\left|x-b\right|
+.\cropped\im_ (6019).jpg,y=\left|x-a\right|-\left|x-b\right|
+.\cropped\im_ (6020).jpg,y=\left|x-4\right|-\left|x+2\right|+2
+.\cropped\im_ (6021).jpg,-6<=y<=6
+.\cropped\im_ (6022).jpg,-4<=y<=8
+.\cropped\im_ (6023).jpg,"w=(1,2)"
+.\cropped\im_ (6024).jpg,x\in R\rightarrow x=n+p
+.\cropped\im_ (6025).jpg,n\in z
+.\cropped\im_ (6026).jpg,0<=p<=1\rightarrow [x]=n
+.\cropped\im_ (6027).jpg,0<=x-[x]<1\rightarrow [x-[x]]=0
+.\cropped\im_ (6028).jpg,\left\{\begin{matrix}0&x\in\mathbb{Z}\\1&x\notin\mathbb{Z}\\\end{matrix}\right.
+.\cropped\im_ (6029).jpg,[x]+[-x]=0
+.\cropped\im_ (6030).jpg,[x\mp k]=[x]\mp k k\in\mathbb{Z}
+.\cropped\im_ (6031).jpg,[x]+[y]
+.\cropped\im_ (6032).jpg,[x]+[y]+1
+.\cropped\im_ (6033).jpg,[x+y]
+.\cropped\im_ (6034).jpg,[x+y]>=[x]+[y]
+.\cropped\im_ (6035).jpg,[x]=a\rightarrow a<=x<a+1
+.\cropped\im_ (6036).jpg,[x]<a\rightarrow x<a
+.\cropped\im_ (6037).jpg,[x]<=a\rightarrow x<a+1
+.\cropped\im_ (6038).jpg,[x]>a\rightarrow x>=a+1
+.\cropped\im_ (6039).jpg,[x]>=a\rightarrow x>=a
+.\cropped\im_ (6040).jpg,[\sqrt{4n^2-3n+1}]-2[\sqrt{n^2-2n}]
+.\cropped\im_ (6041).jpg,[\sqrt{4(3)^2-3(3)+1}]-2[\sqrt{3^2-2(3)}]
+.\cropped\im_ (6042).jpg,[\sqrt{28}]-2[\sqrt{3}]
+.\cropped\im_ (6043).jpg,5-(2\times 1)=3
+.\cropped\im_ (6044).jpg,y=\frac{2x-1}{[x]+1}
+.\cropped\im_ (6045).jpg,"[-2,1]"
+.\cropped\im_ (6046).jpg,-2<=x<-1\rightarrow[x]=-2\rightarrow y=\frac{2x-1}{-2+1}=-2x+1
+.\cropped\im_ (6047).jpg,-1<=x<0\rightarrow[x]=-1\rightarrow y=\frac{2x-1}{-1+1}
+.\cropped\im_ (6048).jpg,0<=x<1\rightarrow[x]=0\rightarrow y=\frac{2x-1}{0+1}=2x-1
+.\cropped\im_ (6049).jpg,x=1\rightarrow y=\frac{1}{2}
+.\cropped\im_ (6050).jpg,"(1,\frac{1}{2})"
+.\cropped\im_ (6051).jpg,[kx]
+.\cropped\im_ (6052).jpg,y=2[\frac{x}{2}]+1
+.\cropped\im_ (6053).jpg,"x\in[-2,6]"
+.\cropped\im_ (6054).jpg,2<=x<4
+.\cropped\im_ (6055).jpg,-2<=x<0
+.\cropped\im_ (6056).jpg,0<=x<2
+.\cropped\im_ (6057).jpg,4<=x<6
+.\cropped\im_ (6058).jpg,k=\frac{1}{2}
+.\cropped\im_ (6059).jpg,x=6
+.\cropped\im_ (6060).jpg,"[0,2\pi]"
+.\cropped\im_ (6061).jpg,y=[\sin{x}]
+.\cropped\im_ (6062).jpg,y=[F(x)]
+.\cropped\im_ (6063).jpg,y=[x]+[-x]
+.\cropped\im_ (6064).jpg,y=x-[x]
+.\cropped\im_ (6065).jpg,y=x+[x]
+.\cropped\im_ (6066).jpg,[\log_{e}{\alpha}=\ln{a}]
+.\cropped\im_ (6067).jpg,e\simeq 2/718
+.\cropped\im_ (6068).jpg,\log_{a}{1}=0
+.\cropped\im_ (6069).jpg,\log_{a}{a}=1
+.\cropped\im_ (6070).jpg,\log_{c}{(a\times b)}=\log_{c}{a}+\log_{c}{b}
+.\cropped\im_ (6071).jpg,\log_{c}{(a+b)}
+.\cropped\im_ (6072).jpg,\log_{c}{(\frac{a}{b})}=\log_{c}{a}-\log_{c}{b}
+.\cropped\im_ (6073).jpg,\log_{c}{(a-b)}
+.\cropped\im_ (6074).jpg,\log_{b}{a^n}=n\log_{b}{a}
+.\cropped\im_ (6075).jpg,\log_{b^m}{a^n}=\frac{n}{m}\log_{b}{a}
+.\cropped\im_ (6076).jpg,\left\{\begin{matrix}\log_{c}{a}<\log_{c}{b}&c>1\\\log_{c}{a}>\log_{c}{b}&0<c<1\\\end{matrix}\right.
+.\cropped\im_ (6077).jpg,a<b
+.\cropped\im_ (6078).jpg,\log_{c}{a}<\log_{c}{b}
+.\cropped\im_ (6079).jpg,\left\{\begin{matrix}a>b&0<c<1\\a<b&c>1\\\end{matrix}\right.
+.\cropped\im_ (6080).jpg,\log_{b}{a}=\frac{\log_{c}{a}}{\log_{c}{b}}
+.\cropped\im_ (6081).jpg,\log_{b}{a}\times\log_{c}{b}=\log_{c}{a}
+.\cropped\im_ (6082).jpg,\log_{b}{a}=\frac{1}{\log_{a}{b}}
+.\cropped\im_ (6083).jpg,a^{\log_{c}{b}}=b^{\log_{c}{a}}
+.\cropped\im_ (6084).jpg,a^{\log_{a}{b}}=b
+.\cropped\im_ (6085).jpg,\log_{c}{a}=\log_{c}{b}\Leftrightarrow a=b
+.\cropped\im_ (6086).jpg,\log_{B}{A}
+.\cropped\im_ (6087).jpg,\left\{\begin{matrix}A>0\\B>0\\B\neq1\\\end{matrix}\right.
+.\cropped\im_ (6088).jpg,\log{a}+\log{b}-\log{(a+b)}
+.\cropped\im_ (6089).jpg,x^2-10x+0/1=0
+.\cropped\im_ (6090).jpg,\log{a\times b}
+.\cropped\im_ (6091).jpg,\log{(a.b)}-\log{(a+b)}=\log{\frac{a.b}{a+b}}=\log{\frac{p}{s}}=\log{\frac{0/1}{10}}=\log{\frac{1}{100}}=-2
+.\cropped\im_ (6092).jpg,t^2+7t+6=0
+.\cropped\im_ (6093).jpg,\left\{\begin{matrix}t=-1\rightarrow 2^x=-1\\t=-6\rightarrow2^x=-6\\\end{matrix}\right.
+.\cropped\im_ (6094).jpg,x^2+y^2=46
+.\cropped\im_ (6095).jpg,\log_{3}{x}+\log_{3}{y}=2
+.\cropped\im_ (6096).jpg,\log_{4}{(x+y)}
+.\cropped\im_ (6097).jpg,\log_{3}{xy}=2
+.\cropped\im_ (6098).jpg,3^2=9=xy
+.\cropped\im_ (6099).jpg,(x+y)^2=x^2+y^2+2xy=46+2\times9=64
+.\cropped\im_ (6100).jpg,x+y=\left\begin{matrix}+8\\-8\\\end{matrix}\right.
+.\cropped\im_ (6101).jpg,\log_{4}{x+y}=\log_{4}{8}=\log_{2^2}{2^3}=\frac{3}{2}
+.\cropped\im_ (6102).jpg,\log_{c}{a}<b
+.\cropped\im_ (6103).jpg,\left\{\begin{matrix}a<c^b&c>1\\a>c^b&0<c<1\\\end{matrix}\right.
+.\cropped\im_ (6104).jpg,\left\{\begin{matrix}a<b&c>1\\a>b&0<c<1\\\end{matrix}\right.
+.\cropped\im_ (6105).jpg,\log_{c}{a}<\log_{c}{b}
+.\cropped\im_ (6106).jpg,2^{-x}<10^{-6}
+.\cropped\im_ (6107).jpg,2^{-x}<0/000001
+.\cropped\im_ (6108).jpg,\log{2}=0/301
+.\cropped\im_ (6109).jpg,\log{2^{-x}}<\log{10^{-6}}
+.\cropped\im_ (6110).jpg,-x\log{2}<-6\log{10}
+.\cropped\im_ (6111).jpg,x>\frac{6}{0/301}=\frac{6000}{301}
+.\cropped\im_ (6112).jpg,x>19/93
+.\cropped\im_ (6113).jpg,P(t)=P(t_0)\times e^{kt}
+.\cropped\im_ (6114).jpg,P(t)
+.\cropped\im_ (6115).jpg,k>0
+.\cropped\im_ (6116).jpg,7000=1400\times e^{0/04t}
+.\cropped\im_ (6117).jpg,5=e^{0/04t}
+.\cropped\im_ (6118).jpg,1/68=0/04t
+.\cropped\im_ (6119).jpg,t=42
+.\cropped\im_ (6120).jpg,P(t_0)
+.\cropped\im_ (6121).jpg,k<0
+.\cropped\im_ (6122).jpg,f(t)=Ae^{0/04t}
+.\cropped\im_ (6123).jpg,A=\left[\begin{matrix}3&4&5\\1&-2&1\\\end{matrix}\right]
+.\cropped\im_ (6124).jpg,\left[\begin{matrix}2&0&0\\0&5&0\\0&0&3\\\end{matrix}\right]
+.\cropped\im_ (6125).jpg,I=\left[\begin{matrix}1&0\\0&1\\\end{matrix}\right]
+.\cropped\im_ (6126).jpg,A_{21}=1
+.\cropped\im_ (6127).jpg,A_{m\times p}\times B_{p\times n}=(AB)_{m\times n}
+.\cropped\im_ (6128).jpg,A^3=A^2\times A=A\times A^2
+.\cropped\im_ (6129).jpg,A^2=A\times A
+.\cropped\im_ (6130).jpg,AB\neq BA
+.\cropped\im_ (6131).jpg,A^2=\left[\begin{matrix}0&2\\1&0\\\end{matrix}\right]\times\left[\begin{matrix}1&0\\0&2\\\end{matrix}\right]=\left[\begin{matrix}2&0\\0&2\\\end{matrix}\right]
+.\cropped\im_ (6132).jpg,2\times\left[\begin{matrix}1&0\\0&1\\\end{matrix}\right]=2I
+.\cropped\im_ (6133).jpg,A^{11}=(A^2)^5\times A
+.\cropped\im_ (6134).jpg,(2I)^5\times A=32I
+.\cropped\im_ (6135).jpg,\left[\begin{matrix}0&64\\32&0\\\end{matrix}\right]
+.\cropped\im_ (6136).jpg,A=\left[\begin{matrix}a&b\\c&d\\\end{matrix}\right]
+.\cropped\im_ (6137).jpg,\left|A\right|=ad-bc
+.\cropped\im_ (6138).jpg,\left|A+B\right|\neq\left|A\right|+\left|B\right|
+.\cropped\im_ (6139).jpg,\left|AB\right|=\left|A\right|\times\left|B\right|
+.\cropped\im_ (6140).jpg,\left|A^n\right|=\left|A\times A\times\dots\times A\right|=\left|A\right|\times\left|A\right|\times\dots\times\left|A\right|=\left|A\right|^n
+.\cropped\im_ (6141).jpg,\left|kA\right|=k^2\times\left|A\right|
+.\cropped\im_ (6142).jpg,A^{-1}=\frac{1}{\left|A\right|}\times\left[\begin{matrix}d&-b\\-c&a\\\end{matrix}\right]
+.\cropped\im_ (6143).jpg,A=\left[\begin{matrix}a&b\\c&d\\\end{matrix}\right]
+.\cropped\im_ (6144).jpg,AA^{-1}=A^{-1}A=I
+.\cropped\im_ (6145).jpg,\left|A^{-1}\right|=\frac{1}{\left|A\right|}
+.\cropped\im_ (6146).jpg,(AB)^{-1}=B^{-1}A^{-1}
+.\cropped\im_ (6147).jpg,(A^{-1})^{-1}=A
+.\cropped\im_ (6148).jpg,(kA)^{-1}=\frac{1}{k}A^{-1}k\neq0
+.\cropped\im_ (6149).jpg,(A^{-1}\times A)B=2A^{-1}
+.\cropped\im_ (6150).jpg,A^{-1}\times AB=A^{-1}\times2I
+.\cropped\im_ (6151).jpg,B=2A^{-1}
+.\cropped\im_ (6152).jpg,\left[\begin{matrix}-2&1\\3&-1\\\end{matrix}\right]
+.\cropped\im_ (6153).jpg,A=\left[\begin{matrix}2&4\\1&1\\\end{matrix}\right]
+.\cropped\im_ (6154).jpg,A\times B=2I
+.\cropped\im_ (6155).jpg,\left[\begin{matrix}-1&4\\1&-2\\\end{matrix}\right]
+.\cropped\im_ (6156).jpg,\left[\begin{matrix}1&-4\\-1&2\\\end{matrix}\right]
+.\cropped\im_ (6157).jpg,\left[\begin{matrix}2&-1\\-4&1\\\end{matrix}\right]
+.\cropped\im_ (6158).jpg,2A^{-1}=\left[\begin{matrix}-1&4\\1&-2\\\end{matrix}\right]
+.\cropped\im_ (6159).jpg,A^{-1}=\frac{1}{-2}\left[\begin{matrix}1&-4\\-1&2\\\end{matrix}\right]=\left[\begin{matrix}-\frac{1}{2}&2\\\frac{1}{2}&-1\\\end{matrix}\right]
+.\cropped\im_ (6160).jpg,\left\{\begin{matrix}ax+by=c\\a'x+b'y=c'\\\end{matrix}\right.
+.\cropped\im_ (6161).jpg,A=\left[\begin{matrix}a&b\\a'&b'\\\end{matrix}\right]
+.\cropped\im_ (6162).jpg,X=\left[\begin{matrix}x\\y\\\end{matrix}\right]
+.\cropped\im_ (6163).jpg,B=\left[\begin{matrix}c\\c'\\\end{matrix}\right]
+.\cropped\im_ (6164).jpg,AX=B
+.\cropped\im_ (6165).jpg,A^{-1}AX=A^{-1}B
+.\cropped\im_ (6166).jpg,X=A^{-1}B
+.\cropped\im_ (6167).jpg,\frac{a}{a'}=\frac{b}{b'}\neq\frac{c}{c'}
+.\cropped\im_ (6168).jpg,\frac{a}{a'}\neq\frac{b}{b'}
+.\cropped\im_ (6169).jpg,\frac{a}{a'}=\frac{b}{b'}=\frac{c}{c'}
+.\cropped\im_ (6170).jpg,1=\left[\begin{matrix}m+1&2\\1&m\\\end{matrix}\right]
+.\cropped\im_ (6171).jpg,A^{-1}=\frac{1}{\left|A\right|}\times\dots
+.\cropped\im_ (6172).jpg,\left\{\begin{matrix}m=1\\m=-2\\\end{matrix}\right.
+.\cropped\im_ (6173).jpg,\left|A\right|=m^2+m-2=0
+.\cropped\im_ (6174).jpg,"A=(x_A,y_A)"
+.\cropped\im_ (6175).jpg,"B=(x_B,y_B)"
+.\cropped\im_ (6176).jpg,AB=\sqrt{(x_A-x_B)^2+(y_A-y_B)^2}
+.\cropped\im_ (6177).jpg,"M=(\frac{x_A+x_B}{2},\frac{y_A+y_B}{2})"
+.\cropped\im_ (6178).jpg,x_A+x_C=x_B+x_D
+.\cropped\im_ (6179).jpg,y_A+y_C=y_B+y_D
+.\cropped\im_ (6180).jpg,y=mx+n
+.\cropped\im_ (6181).jpg,ax+by+c=0
+.\cropped\im_ (6182).jpg,-\frac{a}{b}
+.\cropped\im_ (6183).jpg,"A=(x_A,y_A)"
+.\cropped\im_ (6184).jpg,"B=(x_B,y_B)"
+.\cropped\im_ (6185).jpg,m_{AB}=\frac{y_B-y_A}{x_B-x_A}
+.\cropped\im_ (6186).jpg,m_{AB}=m_{BC}
+.\cropped\im_ (6187).jpg,m=tgx
+.\cropped\im_ (6188).jpg,m=tg\alpha
+.\cropped\im_ (6189).jpg,1+1+\frac{1}{2}=\frac{5}{2}
+.\cropped\im_ (6190).jpg,AH=\frac{\left|ax_A+by_A+c\right|}{\sqrt{a^2+b^2}}
+.\cropped\im_ (6191).jpg,ax+by+c=0
+.\cropped\im_ (6192).jpg,ax+by+c=0
+.\cropped\im_ (6193).jpg,ax+by+c'=0
+.\cropped\im_ (6194).jpg,d=\frac{\left|c-c'\right|}{\sqrt{a^2+b^2}}
+.\cropped\im_ (6195).jpg,2x-2y=3
+.\cropped\im_ (6196).jpg,y=x+1
+.\cropped\im_ (6197).jpg,2x-2y-3=0
+.\cropped\im_ (6198).jpg,2x-2y+2=0
+.\cropped\im_ (6199).jpg,x-y+1=0
+.\cropped\im_ (6200).jpg,\frac{\left|-3-2\right|}{\sqrt{3^2+2^2}}=\frac{5}{\sqrt{8}}
+.\cropped\im_ (6201).jpg,s=(\frac{5}{\sqrt{8}})^2=\frac{25}{8}
+.\cropped\im_ (6202).jpg,\frac{a}{a'}\neq\frac{b}{b'}
+.\cropped\im_ (6203).jpg,\left\{\begin{matrix}ax+by=c\\a'x+b'y=c'\\\end{matrix}\right.
+.\cropped\im_ (6204).jpg,\frac{a}{a'}=\frac{b}{b'}\neq\frac{c}{c'}
+.\cropped\im_ (6205).jpg,\frac{a}{a'}=\frac{b}{b'}=\frac{c}{c'}
+.\cropped\im_ (6206).jpg,2x+y-2z=16
+.\cropped\im_ (6207).jpg,\frac{x-1}{2}=\frac{y}{3}=z+2
+.\cropped\im_ (6208).jpg,4t+2+3t-2t+4=16
+.\cropped\im_ (6209).jpg,\left\{\begin{matrix}x=2t+1\\y=3t\\z=t-2\\\end{matrix}\right.
+.\cropped\im_ (6210).jpg,5t=10
+.\cropped\im_ (6211).jpg,t=2
+.\cropped\im_ (6212).jpg,\left\{\begin{matrix}x+2y-3z=-4\\2x+y-3z=4\\\end{matrix}\right.
+.\cropped\im_ (6213).jpg,\left\{\begin{matrix}-x-2y+3z=4\\2x+y-3z=4\\\end{matrix}\right.
+.\cropped\im_ (6214).jpg,x-y=8
+.\cropped\im_ (6215).jpg,\frac{D}{180}=\frac{R}{\pi}
+.\cropped\im_ (6216).jpg,L=r\theta
+.\cropped\im_ (6217).jpg,"(-\infty,+\infty)"
+.\cropped\im_ (6218).jpg,"(-1,+1)"
