@@ -17,16 +17,10 @@ for file in csv_files:
     temp_df = pd.read_csv(file_path, on_bad_lines="skip")
     merged_df = pd.concat([merged_df, temp_df], ignore_index=True)  # Append to the merged DataFrame
 
-# Extract the image number from the first column (e.g., "im (number)")
-merged_df["image_number"] = merged_df.iloc[:, 0].str.extract(r"im_\s*\((\d+)\)", expand=False).astype(int)
-
-# Sort the DataFrame by the extracted image number
-sorted_df = merged_df.sort_values(by="image_number")
 
 # Drop the temporary column used for sorting
-sorted_df = sorted_df.drop(columns=["image_number"])
 
 # Save the sorted and merged DataFrame to a new CSV file
-sorted_df.to_csv(output_file, index=False)
+merged_df.to_csv(output_file, index=False)
 
 print(f"CSV files have been successfully merged and sorted. Output file: {output_file}")
