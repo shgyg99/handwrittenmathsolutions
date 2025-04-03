@@ -1,33 +1,62 @@
+# Handwritten Math Solutions
 
-# Persian Handwritten Math Solutions Dataset with Formula Annotations
+This project provides tools and models for processing and recognizing handwritten mathematical expressions. It includes utilities for dataset preparation, image processing, and mathematical symbol recognition.
 
-This dataset contains a collection of images of handwritten math solutions in Persian. Alongside each image, there are JSON files that specify the coordinates of the formulas present in the images.
+## Project Structure
 
-## Dataset Details
-- **Images**: Contain pictures of handwritten math solutions in Persian.
-- **JSON Files**: Each JSON file specifies the coordinates of formulas, numbers, and text present in the images. This information can be used for formula recognition and related tasks.
-
-## Dataset Structure
 ```
-/dataset
-  /images
-    - im (1).jpg
-    - im (2).jpg
-    - ...
-  /annotation
-    - im (1).json
-    - im (2).json
-    - ...
+handwrittenmathsolutions/
+├── data/                    # Dataset and data processing scripts
+│   ├── raw/                 # Raw dataset files
+│   ├── processed/           # Processed dataset files
+│   └── labels/              # Label files and CSV data
+├── src/                     # Source code
+│   ├── preprocessing/       # Image preprocessing scripts
+│   ├── labeling/           # Labeling utilities
+│   └── detection/          # Detection and recognition code
+├── model/                   # Trained models and model-related code
+└── docs/                    # Documentation and resources
 ```
 
-- The `images` folder contains image files that show the handwritten math solutions.
-- The `annotation` folder contains JSON files that store the coordinates and information of formulas in each image.
+## Features
 
-## Use Cases
-This dataset can be used in various projects such as:
-- **Mathematical formula recognition** in handwritten images
-- **Image-to-math conversion** (OCR for formulas)
-- **Training machine learning models** for formula and equation recognition and analysis
+- Image preprocessing and size normalization
+- Dataset labeling and organization
+- Mathematical symbol detection and recognition
+- CSV-based label management
+- PDF to LaTeX conversion support
 
-## How to Use
-To use this dataset, you can download the image and JSON files and use them in your various projects. If you need further processing, you can extract the coordinates of the formulas from the JSON files and use them for training NLP models or formula detection.
+## Requirements
+
+- Python 3.x
+- Required Python packages (to be listed in requirements.txt)
+
+## Usage
+
+1. Dataset Preparation:
+   ```bash
+   python src/preprocessing/sizeFixer.py
+   python src/labeling/labeling.py
+   ```
+
+2. Model Training:
+   ```bash
+   python src/detection/train.py
+   ```
+
+3. Recognition:
+   ```bash
+   python src/detection/detect.py
+   ```
+
+## License
+
+[Add your license information here]
+
+## Contributing
+
+[Add contribution guidelines here]
+
+## Contact
+
+[Add your contact information here]

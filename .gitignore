@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.so
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dataset
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db 
