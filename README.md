@@ -152,5 +152,5 @@ For questions or support, please open an issue in the repository or contact us a
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Your Name</sub>
+  <sub>Built with ❤️ by Shaghayegh Matlabi</sub>
 </div>
