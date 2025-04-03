@@ -1,3 +1,4 @@
 *.pt filter=lfs diff=lfs merge=lfs -text
 model/cer=0.05_0.12_v_0_1.ckpt filter=lfs diff=lfs merge=lfs -text
 cer=0.05_0.12_v_0_1.ckpt filter=lfs diff=lfs merge=lfs -text
+model/cer=0.05_0.12_v_0_1.ckpt filter=lfs diff=lfs merge=lfs -text
