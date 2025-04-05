@@ -147,10 +147,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-For questions or support, please open an issue in the repository or contact us at [your-email@example.com](mailto:your-email@example.com).
+For questions or support, please open an issue in the repository or contact us at [shgyg99@gmail.com](mailto:shgyg99@gmail.com).
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Your Name</sub>
+  <sub>Built with ❤️ by Shaghayegh Matlabi</sub>
 </div>
