@@ -37,8 +37,6 @@ handwrittenmathsolutions/
 │   ├── config/             # Configuration files
 │   ├── data/               # Dataset handling
 │   │   └── dataset.py      # Custom dataset implementation
-│   ├── model/              # Model architecture
-│   │   └── math_model.py   # Transformer-based model
 │   ├── preprocessing/      # Image preprocessing
 │   │   ├── labeling.py     # Labeling utilities
 │   │   └── newLabelsCSVmaker.py  # CSV label management
@@ -48,9 +46,7 @@ handwrittenmathsolutions/
 │   └── main.py             # Main entry point
 ├── data/                   # Dataset directory
 ├── docs/                   # Documentation
-├── notebooks/              # Jupyter notebooks
 ├── results/                # Training results and outputs
-└── model/                  # Trained models
 ```
 
 ## 🛠️ Requirements
