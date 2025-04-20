@@ -68,7 +68,7 @@ handwrittenmathsolutions/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/handwrittenmathsolutions.git
+   git clone https://github.com/shgyg99/handwrittenmathsolutions.git
    cd handwrittenmathsolutions
    ```
 
@@ -129,7 +129,6 @@ The model achieves state-of-the-art performance on handwritten mathematical expr
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
