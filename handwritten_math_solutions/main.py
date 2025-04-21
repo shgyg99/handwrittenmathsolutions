@@ -6,13 +6,13 @@ import argparse
 from pathlib import Path
 
 from src.config import config
-from train import train
+from src.train import train
 
 def parse_args():
     """Parse command line arguments."""
     parser = argparse.ArgumentParser(description='Train Handwritten Math Solutions model')
-    parser.add_argument('--data_dir', type=str, required=True, help='Path to data directory')
-    parser.add_argument('--csv_file', type=str, required=True, help='Path to CSV file with annotations')
+    parser.add_argument('--data_dir', type=str, default='data/raw', help='Path to data directory')
+    parser.add_argument('--csv_file', type=str, default='data/processed', help='Path to CSV file with annotations')
     parser.add_argument('--output_dir', type=str, default='outputs', help='Path to output directory')
     return parser.parse_args()
 
