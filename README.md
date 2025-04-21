@@ -35,6 +35,9 @@ A state-of-the-art deep learning system for processing and recognizing handwritt
 handwrittenmathsolutions/
 ├── src/                     # Source code
 │   ├── data/                # Dataset handling
+|   |   ├── dataset          # Dataset directory
+|   |   ├── dataloader.py       # Makes DataLoader
+|   |   ├── config.py        # Configuration
 │   │   └── dataset.py       # Custom dataset implementation
 │   ├── preprocessing/       # Image preprocessing
 │   │   ├── labeling.py      # Labeling utilities
@@ -44,9 +47,10 @@ handwrittenmathsolutions/
 │   ├── utils/               # Utility functions
 │   │   └── utils.py         # Helper functions and metrics
 |   ├── config.py            # Configuration
-├── train.py                 # Training script
+|   ├── latex_tokenizer.json # Trained BPE tokenizer
+|   └── train.py             # Training process
 ├── main.py                  # Main entry point
-├── data/                    # Dataset directory
+├── data/                    # 
 ├── docs/                    # Documentation
 ├── requirements.txt         # Python dependencies
 ├── README.md                # Project documentation
