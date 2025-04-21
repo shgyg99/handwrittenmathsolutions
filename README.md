@@ -69,6 +69,14 @@ handwrittenmathsolutions/
   matplotlib>=3.3.0
   torch>=1.7.0
   torchvision>=0.8.0
+  torchmetrics>=0.7.0
+  wandb>=0.12.0
+  fastai>=2.5.0
+  pytorch-lightning>=1.3.0
+  seaborn>=0.11.0
+  tokenizers>=0.10.0
+  editdistance>=0.5.0
+  tqdm>=4.50.0
   ```
 
 ## 📦 Installation
@@ -99,13 +107,9 @@ handwrittenmathsolutions/
 
 2. **Training**
    ```bash
-   python src/main.py --data_dir data/ --csv_file data/labels.csv --output_dir results/
+   python handwritten_math_solutions/main.py --output_dir results/
    ```
 
-3. **Evaluation**
-   ```bash
-   python src/main.py --mode eval --model_path results/model.pt
-   ```
 
 ## 🧠 Model Architecture
 
@@ -131,7 +135,6 @@ The system employs a sophisticated transformer-based architecture (`MathTransfor
 The model achieves state-of-the-art performance on handwritten mathematical expression recognition:
 
 - Character Error Rate (CER): < 5%
-- Recognition accuracy: > 95%
 - Processing speed: < 100ms per image
 
 ## 🤝 Contributing
