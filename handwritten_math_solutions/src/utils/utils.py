@@ -4,7 +4,7 @@ Utility functions for Handwritten Math Solutions.
 
 import editdistance
 from typing import List, Optional
-
+import torchvision
 import torch
 import torchmetrics as tm
 from torchmetrics import Metric
