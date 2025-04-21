@@ -50,7 +50,6 @@ handwrittenmathsolutions/
 |   ├── latex_tokenizer.json # Trained BPE tokenizer
 |   └── train.py             # Training process
 ├── main.py                  # Main entry point
-├── data/                    # 
 ├── docs/                    # Documentation
 ├── requirements.txt         # Python dependencies
 ├── README.md                # Project documentation
